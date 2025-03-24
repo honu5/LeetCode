@@ -1,7 +1,11 @@
 class Solution:
     def countDays(self, days: int, meetings: List[List[int]]) -> int:
-        a=set()
-        for start,end in meetings:
-            for day in range(start,end+1):
-                a.add(day)
-        return days - len(a)
+        a=sorted(meetings)
+        ans=last=0
+        for start , end in a:
+            if last<start:
+                ans+=start-last-1
+            last=max(last,end)
+        ans+=days-last
+        return ans
+        
