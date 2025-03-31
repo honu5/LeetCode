@@ -2,8 +2,8 @@ class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
         res=[]
         nums.sort()
-        for i in range(len(nums)-2):
-            if i==0 or i>0 and nums[i-1]!=nums[i]:
+        for i in range(len(nums)):
+            if i==0 or i>0 and  nums[i]!=nums[i-1]:
                 l,r=i+1,len(nums)-1
                 while l<r:
                     c=nums[i]+nums[l]+nums[r]
@@ -19,5 +19,5 @@ class Solution:
                         l+=1
                     else: r-=1
         return res
-                                               
-                                               
+
+                        
