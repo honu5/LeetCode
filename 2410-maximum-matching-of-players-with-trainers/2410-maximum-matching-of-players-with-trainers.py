@@ -15,6 +15,8 @@ class Solution:
                     
                 
                     cnt+=1
+                    if cnt==min(len(players),len(trainers)):
+                        break
                 
                 else: 
                     s+=1
@@ -29,6 +31,8 @@ class Solution:
                 
                     cnt+=1
                     n-=1
+                    if cnt==min(len(players),len(trainers)):
+                        break
                 
                 else: 
                     s+=1
