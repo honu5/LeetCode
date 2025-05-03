@@ -5,14 +5,18 @@ class Solution:
         
         target=sum(skill)/(n/2)
         skill.sort()
-        if skill==[1,1,1,2,3,3,3,7,7,8,8,8,9,9]:
-            return -1
+        
         if sum(skill)/(n/2)!=skill[0]+skill[n-1]:
             return -1
         l=0
         r=len(skill)-1
         Sum=0
+        if skill.count(skill[l])!=skill.count(skill[r]):
+
+                return -1
         while l<r:
+            
+            
 
             Sum+=skill[l]*skill[r]
            
