@@ -3,12 +3,10 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        p=0
-        s=0
-        while s<len(nums):
-            if nums[s]!=0:
-                nums[s],nums[p]=nums[p],nums[s]
-                p+=1
-            s+=1
+        slow=0
+        for fast in range(len(nums)):
+            if nums[fast]!=0:
+                nums[fast],nums[slow]=nums[slow],nums[fast]
+                slow+=1
         return nums
         
