@@ -5,9 +5,23 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        for i in range(len(nums)):
-            for j in range(i+1,len(nums)):
-                if nums[i]+ nums[j]==target:
-                    return [i,j]
-        return -1
-        
+        ans=[]
+        num=sorted(nums)
+        l=0
+        r=len(nums)-1
+        while l<r:
+            if num[l]+num[r]==target:
+                if num[l]==num[r]:
+                    a=nums.index(num[l])
+                    ans.append(a)
+                    nums.remove(num[l])
+                    b=a=nums.index(num[l])+1
+                    ans.append(b)
+                    return ans
+                
+
+                return [nums.index(num[l]),nums.index(num[r])]
+            elif num[l]+num[r]>target:
+                r-=1
+            else : l+=1
+     
