@@ -4,17 +4,18 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        n=len(nums)-1
+        n=len(nums)
+        idx=0
     
         for i in range(n):
-            if nums[i]==nums[i+1]:
+            if i<n-1 and  nums[i]==nums[i+1]:
                 nums[i],nums[i+1]=nums[i]*2,0
+            if nums[i]!=0:
+                nums[i],nums[idx]=nums[idx],nums[i]
+                idx+=1
             
 
-        for i in nums:
-            if i==0:
-                nums.remove(i)
-                nums.append(i)
+        
         return nums
                 
 
