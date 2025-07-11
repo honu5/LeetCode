@@ -5,10 +5,9 @@ class Solution(object):
         :rtype: int
         """
         c=Counter(nums)
-                
-        for num,freq in c.items():
-            if freq==1:
-                return num
+        d=c.most_common()[-1]
+        print(d)
+        return d[0]
 
         
         
