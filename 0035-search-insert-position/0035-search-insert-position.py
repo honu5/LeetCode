@@ -21,7 +21,7 @@ class Solution(object):
                 elif nums[m-1]<target:
                     return m
                 m-=1
-        elif nums[m]<target:
+        else:
            
             while True:
                 if nums[m+1]==target or  nums[m+1]>target:
