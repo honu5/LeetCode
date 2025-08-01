@@ -6,10 +6,7 @@ class Solution(object):
         :rtype: int
         """
         n=len(nums)
-        if n==0 or (n==1 and nums[0]==val):
-            return 0
-        elif n==1 and nums[0]!=val:
-            return 1
+        
         i=0 
         while (i<n):
             if nums[i]==val:
