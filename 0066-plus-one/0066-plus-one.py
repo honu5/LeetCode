@@ -4,8 +4,7 @@ class Solution(object):
         :type digits: List[int]
         :rtype: List[int]
         """
-        string=''.join(str(num) for num in digits)
-        final=int(string)+1
-        ans=str(final)
-        return [int(s) for s in ans]
-        
+        b=''.join(str(a)for a in digits)
+        c=int(b)+1
+        d=str(c)
+        return [int(n) for n in d]
