@@ -38,7 +38,7 @@ class Solution(object):
                     ans.append(i)
                     ans.append(num/i)
         else:
-            for i in range(2,num//16):
+            for i in range(2,num//32):
                 if num%i==0:
                     if i in ans:
                         break
