@@ -19,5 +19,4 @@ class Solution(object):
         if ad==num:
             return True
         return False
-
         
