@@ -19,18 +19,20 @@ class Solution(object):
         if ad==num:
             return True
         return False'''
-        ans=[1]
+        total=1
         if num%2!=0:
             return False
         
 
         for i in range(2,int(sqrt(num))+1):
             if num%i==0:            
-                ans.append(i)
-                ans.append(num/i)
+                total+=i
+                if i!=num/i:
+                    total+=num/i
+                
         
-        print(ans)
-        if sum(ans)==num:
+        
+        if total==num:
             return True
         return False
 
