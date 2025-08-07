@@ -22,14 +22,14 @@ class Solution(object):
         ans=[1]
         if num%2!=0:
             return False
-        if num<=100:
+        
 
-            for i in range(2,int(sqrt(num))+1):
-                if num%i==0:
-                    if i in ans:
-                        break
-                    ans.append(i)
-                    ans.append(num/i)
+        for i in range(2,int(sqrt(num))+1):
+            if num%i==0:
+                if i in ans:
+                    break
+                ans.append(i)
+                ans.append(num/i)
         
         print(ans)
         if sum(ans)==num:
