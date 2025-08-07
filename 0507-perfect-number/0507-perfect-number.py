@@ -10,7 +10,7 @@ class Solution(object):
         if num>=10000:
             return False
         if num==1:
-            return True
+            return False
         if num%2!=0:
             return False
         for i in range(1,num//2+1):
