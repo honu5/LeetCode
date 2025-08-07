@@ -31,7 +31,7 @@ class Solution(object):
                 ans.append(i)
                 ans.append(num/i)
         
-        
+        print(ans)
         if sum(ans)==num:
             return True
         return False
