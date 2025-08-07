@@ -24,7 +24,7 @@ class Solution(object):
             return False
         if num<=100:
 
-            for i in range(2,num//4):
+            for i in range(2,num//2):
                 if num%i==0:
                     if i in ans:
                         break
