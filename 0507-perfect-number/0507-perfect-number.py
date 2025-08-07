@@ -26,8 +26,7 @@ class Solution(object):
 
         for i in range(2,int(sqrt(num))+1):
             if num%i==0:
-                if i in ans:
-                    break
+                
                 ans.append(i)
                 ans.append(num/i)
         
