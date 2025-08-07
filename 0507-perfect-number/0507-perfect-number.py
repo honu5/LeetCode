@@ -19,16 +19,19 @@ class Solution(object):
         if ad==num:
             return True
         return False'''
-        if num <= 1:
+        ans=[1]
+        if num%2!=0:
             return False
-    
-        total = 1  # 1 is always a divisor (except for 1 itself)
-        sqrt_n = int(math.sqrt(num))
         
-        for i in range(2, sqrt_n + 1):
-            if num % i == 0:
-                total += i
-                if i != num // i:  # Avoid adding square root twice
-                    total += num // i
+
+        for i in range(2,int(sqrt(num))+1):
+            if num%i==0:            
+                ans.append(i)
+                ans.append(num/i)
         
-        return total == num
+        print(ans)
+        if sum(ans)==num:
+            return True
+        return False
+
+        
