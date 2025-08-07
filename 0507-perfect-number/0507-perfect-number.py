@@ -31,7 +31,7 @@ class Solution(object):
                     ans.append(i)
                     ans.append(num/i)
         elif num<=10000:
-            for i in range(2,num//4):
+            for i in range(2,num//8):
                 if num%i==0:
                     if i in ans:
                         break
