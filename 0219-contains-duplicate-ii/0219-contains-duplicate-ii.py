@@ -1,35 +1,20 @@
-class Solution(object):
-    def containsNearbyDuplicate(self, nums, k):
-        """
-        :type nums: List[int]
-        :type k: int
-        :rtype: bool
-        """
-        l=0
-        r=k+1
-        n=len(nums)
-        found=False
-        if k==35000 and nums[0]==-24500:
-            return False
-        if k==35000:
+from typing import List
+
+class Solution:
+    def containsNearbyDuplicate(self, nums: List[int], k: int) -> bool:
+        window = nums[:min(len(nums), k + 1)]  
+        
+        if len(set(window)) != len(window):  
             return True
         
-        if k>=len(nums):
-            if len(nums)!=len(set(nums)):
+        for i in range(1, len(nums) - k):  
+            window.pop(0)  
+            if k + i < len(nums): 
+                window.append(nums[k + i])  
+
+            
+            if len(set(window)) != len(window):  
                 return True
-        for i in range(n-k):
-            if len(nums[i:i+k+1])!=len(set(nums[i:i+k+1])):
-                return True
+
         return False
 
-        '''else:
-            while(r<=len(nums)):
-                sub=nums[l:r]
-            
-                if len(sub)!=len(set(sub)):
-                    found=True
-                l+=1
-                r+=1
-        return found'''
-        
-        
