@@ -4,10 +4,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: bool
         """
-        count=Counter(nums)
-        for i in count:
-            if count[i]>1:
-                return True
+        if len(nums)!=len(set(nums)):
+            return True
         return False
-        
         
