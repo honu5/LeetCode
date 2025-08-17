@@ -4,16 +4,14 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        if len(nums)==1:
-            return 1
+        
         nums.sort()
         i=1
         n=0
-        k=0
         if len(nums)==0:
             return 0
         print(nums)
-        streak=0
+        streak=1
         while n<len(nums)-1:
 
             if nums[n]==nums[n+1]-1:
