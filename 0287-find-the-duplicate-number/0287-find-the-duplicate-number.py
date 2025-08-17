@@ -6,5 +6,5 @@ class Solution(object):
         """
         count=Counter(nums)
         c=count.most_common()
-        return c[0][0]
+        return max(count,key=count.get)
         
