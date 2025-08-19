@@ -5,10 +5,10 @@ class Solution(object):
         :rtype: bool
         """
         flag="up"
-        if arr==sorted(arr) or arr==list(reversed(sorted(arr))):
-            return False
         nums=arr
         if len(arr)<3:
+            return False
+        elif arr[0]>=arr[1]:
             return False
         for i in range(len(arr)-1):
             if nums[i]>nums[i+1]:
@@ -17,6 +17,8 @@ class Solution(object):
                 return False
             if flag=="down" and nums[i]<nums[i+1]:
                 return False
+        if flag=="up":
+            return False
         return True
             
         
