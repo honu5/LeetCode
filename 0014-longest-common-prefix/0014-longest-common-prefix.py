@@ -16,15 +16,14 @@ class Solution(object):
         j=0
         while j<len(short):
             test+=short[j]
-            print(ans)
+            print(test)
             for i in range(1,len(strs)):            
                 if not strs[i].startswith(test):
                     return test[:-1]
-                else:
-                    ans=test
+               
 
             j+=1
-        return test[:len(ans)]
+        return test[:len(test)]
 
         
 
