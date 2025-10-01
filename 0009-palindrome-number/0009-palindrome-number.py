@@ -4,19 +4,14 @@ class Solution(object):
         :type x: int
         :rtype: bool
         """
-        # Negative numbers are not palindromes
-        if x < 0:
+        if x<0:
             return False
+        if len(str(x))==1:
+            return True
         
-        # Store the original number to compare later
-        original = x
-        reversed_num = 0
+
+        if str(x)==str(x)[::-1]:
+            return True
+        print(str(x),reversed(str(x)))
         
-        while x > 0:
-            # Get the last digit
-            last_digit = x % 10
-            # Build the reversed number
-            reversed_num = reversed_num * 10 + last_digit
-            # Remove the last digit from x
-            x //= 10
-        return original == reversed_num
+        return False
