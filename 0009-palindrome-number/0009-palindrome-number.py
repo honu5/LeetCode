@@ -1,11 +1,22 @@
-class Solution:
-    def isPalindrome(self, x: int) -> bool:
-        strg=str(x)
-        l=0
-        r=len(strg)-1
-        while l<r:
-            if strg[l]!=strg[r]:
-                return False
-            l+=1
-            r-=1
-        return True
+class Solution(object):
+    def isPalindrome(self, x):
+        """
+        :type x: int
+        :rtype: bool
+        """
+        # Negative numbers are not palindromes
+        if x < 0:
+            return False
+        
+        # Store the original number to compare later
+        original = x
+        reversed_num = 0
+        
+        while x > 0:
+            # Get the last digit
+            last_digit = x % 10
+            # Build the reversed number
+            reversed_num = reversed_num * 10 + last_digit
+            # Remove the last digit from x
+            x //= 10
+        return original == reversed_num
