@@ -19,13 +19,7 @@ class Solution(object):
         i=0
         ev=0
         od=0
-        if int(nums[0])%2==0:
-            start=even
-            then=odd
-        else:
-            start=odd
-            then=even
-
+        
         print(even,odd)
         while i<len(nums):
             if int(nums[i])%2==0  :
