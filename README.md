@@ -6,14 +6,17 @@
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/honu5/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/honu5/LeetCode/tree/master/0189-rotate-array) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/honu5/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2331-intersection-of-multiple-arrays](https://github.com/honu5/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 ## Hash Table
 |  |
 | ------- |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/honu5/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2331-intersection-of-multiple-arrays](https://github.com/honu5/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 ## Sorting
 |  |
 | ------- |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/honu5/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/honu5/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/honu5/LeetCode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2331-intersection-of-multiple-arrays](https://github.com/honu5/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
@@ -38,6 +41,7 @@
 ## String
 |  |
 | ------- |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/honu5/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/honu5/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Stack
 |  |
