@@ -5,7 +5,8 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        if max(nums)-min(nums)<=2*k:
+        nums.sort()
+        if nums[-1]-nums[0]<=2*k:
             return 0
-        else: return (max(nums)-min(nums))-2*k
+        else: return nums[-1]-nums[0]-2*k
         
