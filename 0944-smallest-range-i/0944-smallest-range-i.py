@@ -1,0 +1,11 @@
+class Solution(object):
+    def smallestRangeI(self, nums, k):
+        """
+        :type nums: List[int]
+        :type k: int
+        :rtype: int
+        """
+        if max(nums)-min(nums)<=2*k:
+            return 0
+        else: return (max(nums)-min(nums))-2*k
+        
