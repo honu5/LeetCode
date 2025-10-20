@@ -11,7 +11,6 @@ class Solution(object):
             return 1
         count=Counter(arr)
         most=count.most_common()
-        print(most)
         n=most[-1][1]
         while k:
             k-=1
