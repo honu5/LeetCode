@@ -4,10 +4,10 @@ class Solution(object):
         piles.sort()
         m=len(piles)-2
         t=len(piles)//3
-        ans=[]
+        ans=0
 
         for i in range(m,t-1,-2):
-            ans.append(piles[i])
+            ans+=piles[i]
 
-        return sum(ans)
+        return ans
 
