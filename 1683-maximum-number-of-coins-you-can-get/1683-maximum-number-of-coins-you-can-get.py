@@ -1,9 +1,8 @@
 class Solution(object):
     def maxCoins(self, piles):
         
-        n=len(piles)
         piles.sort()
-        m=n-2
+        m=len(piles)-2
         t=len(piles)//3
         ans=0
 
