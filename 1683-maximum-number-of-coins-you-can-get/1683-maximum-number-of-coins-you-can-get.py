@@ -6,14 +6,13 @@ class Solution(object):
         """
         n=len(piles)
         piles.sort()
-        l,m,r=0,n-2,n-1
+        l,m=0,n-2
         ans=0
 
         while l<m:
             ans+=piles[m]
             l+=1
             m-=2
-            r-=2
 
         return ans
 
