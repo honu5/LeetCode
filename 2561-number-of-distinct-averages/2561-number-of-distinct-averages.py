@@ -7,6 +7,7 @@ class Solution(object):
         nums.sort()
         if len(nums)==2:
             return 1
+        
         l=0
         r=len(nums)-1
         arr=[]
