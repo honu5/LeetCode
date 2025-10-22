@@ -5,16 +5,11 @@ class Solution(object):
         :type val: int
         :rtype: int
         """
+        i=0
         n=len(nums)
-        
-        i=0 
-        while (i<n):
+        while i<len(nums):
             if nums[i]==val:
-                elem=nums.pop(i)
-                nums.append(elem)
+                nums.pop(i)
                 n-=1
-            else:
-                i+=1
-        return n
-        
+            else:i+=1
         
