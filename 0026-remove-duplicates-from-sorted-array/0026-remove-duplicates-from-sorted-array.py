@@ -1,14 +1,16 @@
-class Solution:
-    def removeDuplicates(self, nums: List[int]) -> int:
-        n=len(nums)
+class Solution(object):
+    def removeDuplicates(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        k=len(set(nums))
         i=0
-        if len(nums)==len(set(nums)):
-            return n
-        while i<n-1:
+        while i<k-1:
             if nums[i]==nums[i+1]:
                 nums.pop(i)
-                n-=1                
             else:
                 i+=1
-        return len(nums)
-       
+        return k
+
+        
