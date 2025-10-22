@@ -11,12 +11,11 @@ class Solution(object):
         r=len(nums)-1
         arr=[]
         while l<r:
-            average=(nums[l]+nums[r])/2.0
+            average=nums[l]+nums[r]
             if average not in arr:
                 arr.append(average)
             l+=1
             r-=1
-            print(arr)
         return len(arr)
 
         
