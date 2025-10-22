@@ -25,6 +25,7 @@
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/honu5/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/honu5/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2502-sort-the-people](https://github.com/honu5/LeetCode/tree/master/2502-sort-the-people) |
+| [2561-number-of-distinct-averages](https://github.com/honu5/LeetCode/tree/master/2561-number-of-distinct-averages) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [2331-intersection-of-multiple-arrays](https://github.com/honu5/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/honu5/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2502-sort-the-people](https://github.com/honu5/LeetCode/tree/master/2502-sort-the-people) |
+| [2561-number-of-distinct-averages](https://github.com/honu5/LeetCode/tree/master/2561-number-of-distinct-averages) |
 ## Sorting
 |  |
 | ------- |
@@ -51,6 +53,7 @@
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/honu5/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/honu5/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2502-sort-the-people](https://github.com/honu5/LeetCode/tree/master/2502-sort-the-people) |
+| [2561-number-of-distinct-averages](https://github.com/honu5/LeetCode/tree/master/2561-number-of-distinct-averages) |
 ## Counting
 |  |
 | ------- |
@@ -73,6 +76,7 @@
 | [0189-rotate-array](https://github.com/honu5/LeetCode/tree/master/0189-rotate-array) |
 | [1168-duplicate-zeros](https://github.com/honu5/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/honu5/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2561-number-of-distinct-averages](https://github.com/honu5/LeetCode/tree/master/2561-number-of-distinct-averages) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
