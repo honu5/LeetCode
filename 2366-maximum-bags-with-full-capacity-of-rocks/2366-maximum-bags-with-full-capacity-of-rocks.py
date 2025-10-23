@@ -6,10 +6,10 @@ class Solution(object):
         :type additionalRocks: int
         :rtype: int
         """
-        arr=[[rocks[i],capacity[i]] for i in range(len(rocks))]
+        
         ans=[]
-        for i in arr:
-            ans.append(i[1]-i[0])
+        for i in range(len(rocks)):
+            ans.append(capacity[i]-rocks[i])
         ans.sort()
         i=0
         final=0
