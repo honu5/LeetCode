@@ -7,11 +7,9 @@ class Solution(object):
         :rtype: int
         """
         arr=[[rocks[i],capacity[i]] for i in range(len(rocks))]
-        print(arr)
         ans=[]
         for i in arr:
             ans.append(i[1]-i[0])
-        print(ans)
         ans.sort()
         i=0
         final=0
