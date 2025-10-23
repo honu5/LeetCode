@@ -11,16 +11,15 @@ class Solution(object):
         for i in range(len(rocks)):
             ans.append(capacity[i]-rocks[i])
         ans.sort()
-        i=0
+        
         final=0
-        while additionalRocks and i<len(ans):
+        for i in range(len(ans)):
             additionalRocks-=ans[i]
             if additionalRocks<0:
-                break
+                return i
+                
             
-            
-            i+=1
-            final+=1
-        return final
+
+        return len(ans)
             
         
