@@ -15,7 +15,6 @@ class Solution(object):
                 left+=ans[i]
             else:
                 right+=ans[i]
-        print(ans,left,right)
         return int(left)+int(right)
         
         
