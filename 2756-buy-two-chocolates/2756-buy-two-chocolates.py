@@ -6,7 +6,7 @@ class Solution(object):
         :rtype: int
         """
         prices.sort()
-        chck=prices[0]+prices[1]
+        chck=sum(prices[0:2])
         if chck>money:
             return money
         else:
