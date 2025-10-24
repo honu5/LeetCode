@@ -6,7 +6,9 @@ class Solution(object):
         """
         if len(nums)<=2:
             return -1
-        nums.sort()
-        return nums[1]
-
+        for i in nums:
+            if i!=max(nums) and i!=min(nums):
+                return i
+        
+        
         
