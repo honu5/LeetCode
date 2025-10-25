@@ -35,6 +35,7 @@
 | [2756-buy-two-chocolates](https://github.com/honu5/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2836-neither-minimum-nor-maximum](https://github.com/honu5/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2892-check-if-array-is-good](https://github.com/honu5/LeetCode/tree/master/2892-check-if-array-is-good) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/honu5/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 | [2836-neither-minimum-nor-maximum](https://github.com/honu5/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2887-sort-vowels-in-a-string](https://github.com/honu5/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2892-check-if-array-is-good](https://github.com/honu5/LeetCode/tree/master/2892-check-if-array-is-good) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/honu5/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
 |  |
 | ------- |
@@ -102,6 +104,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/honu5/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2561-number-of-distinct-averages](https://github.com/honu5/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/honu5/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/honu5/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -144,6 +147,7 @@
 | ------- |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/honu5/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/honu5/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/honu5/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Graph
 |  |
 | ------- |
