@@ -7,5 +7,7 @@ class Solution(object):
         """
         a=list(set(nums))
         a.sort()
-        n=len(a)
-        return sorted((a[max((n-k),0):]),reverse=True)    
+        if len(a)-k>0 :
+            n=len(a)-k 
+        else: n=0
+        return sorted((a[n:]),reverse=True)    
