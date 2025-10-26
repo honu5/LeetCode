@@ -22,6 +22,7 @@
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/honu5/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/honu5/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/honu5/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [2058-concatenation-of-array](https://github.com/honu5/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/honu5/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2331-intersection-of-multiple-arrays](https://github.com/honu5/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/honu5/LeetCode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
@@ -134,6 +135,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2058-concatenation-of-array](https://github.com/honu5/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/honu5/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/honu5/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/honu5/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
