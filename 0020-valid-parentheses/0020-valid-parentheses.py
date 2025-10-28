@@ -4,8 +4,7 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
-        if len(s)==1:
-            return False
+        
         ans=[]
         for i in s:
             if ans and  i == ']':
