@@ -4,22 +4,26 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
-        dic={")":"("
-        ,"]":"[",
-        "}":"{"}
-
-        arr=[]
-
-        for i in s:
-            if i in dic:
-                if not arr:
-                    return False
-                popped=arr.pop()
-                if popped!=dic[i]:
-                    return False
-            else:
-                arr.append(i)
-        if arr:
+        if len(s)==1:
             return False
-        return True
+        ans=[]
+        for i in s:
+            if ans and  i == ']':
+                if ans[-1]!='[':
+                    return False
+                else:
+                    ans.pop()
         
+            elif ans and  i == ')':
+                if ans[-1]!='(':
+                    return False
+                else:
+                    ans.pop()
+            elif ans and i=='}':
+                if ans[-1]!='{':
+                    return False
+                else:
+                    ans.pop()
+            else:
+                ans.append(i)
+        return not ans
