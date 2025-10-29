@@ -1,5 +1,10 @@
-class Solution:
-    def lengthOfLastWord(self, s: str) -> int:
-        lists=list(s.split())
-        return len(lists[-1])
+class Solution(object):
+    def lengthOfLastWord(self, s):
+        """
+        :type s: str
+        :rtype: int
+        """
+        s=s.split()
+        print(s)
+        return len(s[-1])
         
