@@ -93,6 +93,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/honu5/LeetCode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/honu5/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/honu5/LeetCode/tree/master/0189-rotate-array) |
 | [0927-sum-of-subsequence-widths](https://github.com/honu5/LeetCode/tree/master/0927-sum-of-subsequence-widths) |
