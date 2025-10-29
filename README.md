@@ -101,6 +101,7 @@
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/honu5/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/honu5/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2650-split-with-minimum-sum](https://github.com/honu5/LeetCode/tree/master/2650-split-with-minimum-sum) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/honu5/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -186,4 +187,8 @@
 |  |
 | ------- |
 | [2585-delete-greatest-value-in-each-row](https://github.com/honu5/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3676-smallest-number-with-all-set-bits](https://github.com/honu5/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 <!---LeetCode Topics End-->
