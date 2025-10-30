@@ -5,14 +5,14 @@ class Solution(object):
         :rtype: int
         """
         ans=[]
-        for i in range(len(operations)):
-            if operations[i]=="C":
+        for i in operations:
+            if i=="C":
                 ans.pop()
-            elif operations[i]=="D":
+            elif i=="D":
                 ans.append(ans[-1]*2)
-            elif operations[i]=="+":
+            elif i=="+":
                 ans.append(ans[-1]+ans[-2])
             else:
-                ans.append(int(operations[i]))
+                ans.append(int(i))
         return sum(ans)
         
