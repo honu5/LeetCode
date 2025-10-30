@@ -21,6 +21,7 @@
 | [1168-duplicate-zeros](https://github.com/honu5/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1319-unique-number-of-occurrences](https://github.com/honu5/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/honu5/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/honu5/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/honu5/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/honu5/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/honu5/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -148,6 +149,7 @@
 | [0682-baseball-game](https://github.com/honu5/LeetCode/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/honu5/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/honu5/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/honu5/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/honu5/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Simulation
 |  |
@@ -210,4 +212,8 @@
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/honu5/LeetCode/tree/master/2491-smallest-even-multiple) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/honu5/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
