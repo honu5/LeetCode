@@ -5,7 +5,13 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        n=len(nums)
-        nums.sort()
-        return nums[n-k]
+        heap = []
+
+        for n in nums:
+            heapq.heappush(heap, n)
+            if len(heap) > k:
+                heapq.heappop(heap)
+
+
+        return heapq.heappop(heap)
         
