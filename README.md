@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/honu5/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/honu5/LeetCode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/honu5/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/honu5/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/honu5/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/honu5/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/honu5/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -122,6 +123,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/honu5/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/honu5/LeetCode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/honu5/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/honu5/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/honu5/LeetCode/tree/master/0189-rotate-array) |
 | [0874-backspace-string-compare](https://github.com/honu5/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1168-duplicate-zeros](https://github.com/honu5/LeetCode/tree/master/1168-duplicate-zeros) |
@@ -197,6 +199,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/honu5/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/honu5/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/honu5/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/honu5/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
