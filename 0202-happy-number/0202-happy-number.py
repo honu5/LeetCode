@@ -1,14 +1,22 @@
-class Solution:
-    def isHappy(self, n: int) -> bool:
-        listt=[]
+class Solution(object):
+    def isHappy(self, n):
+        """
+        :type n: int
+        :rtype: bool
+        """
+        ans=[]
+        val=0
         while True:
-            st=str(n)
-            r=0
-            for i in st:
-                r+=int(i)**2
-            if r==1:
+            val=0
+            for i in str(n):
+                val+=int(i)**2
+                if val in ans:
+                    return False
+            ans.append(val)
+            if val==1:
                 return True
-            elif r in listt:
-                return False
-            listt.append(r)
-            n=r
+            n=val
+            
+            print(ans)
+        
+        
