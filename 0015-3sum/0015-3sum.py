@@ -4,15 +4,14 @@ class Solution(object):
         res = []
 
         for i in range(len(nums)):
-            if i > 0 and nums[i] == nums[i - 1]:
-                continue
+            
 
             left, right = i + 1, len(nums) - 1
 
             while left < right:
                 total = nums[i] + nums[left] + nums[right]
 
-                if total == 0:
+                if total == 0 and  [nums[i],nums[left],nums[right]] not in res:
                     res.append([nums[i], nums[left], nums[right]])
 
                     while left < right and nums[left] == nums[left + 1]:
