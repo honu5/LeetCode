@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/honu5/LeetCode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/honu5/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/honu5/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/honu5/LeetCode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/honu5/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -73,6 +74,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/honu5/LeetCode/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/honu5/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/honu5/LeetCode/tree/master/0268-missing-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/honu5/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -126,6 +128,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/honu5/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/honu5/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/honu5/LeetCode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/honu5/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
