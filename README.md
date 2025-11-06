@@ -26,6 +26,7 @@
 | [1168-duplicate-zeros](https://github.com/honu5/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1319-unique-number-of-occurrences](https://github.com/honu5/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/honu5/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/honu5/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/honu5/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1603-running-sum-of-1d-array](https://github.com/honu5/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/honu5/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -81,6 +82,7 @@
 | [0748-largest-number-at-least-twice-of-others](https://github.com/honu5/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0927-sum-of-subsequence-widths](https://github.com/honu5/LeetCode/tree/master/0927-sum-of-subsequence-widths) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/honu5/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/honu5/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/honu5/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/honu5/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/honu5/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -143,6 +145,7 @@
 | [0874-backspace-string-compare](https://github.com/honu5/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1168-duplicate-zeros](https://github.com/honu5/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1454-remove-palindromic-subsequences](https://github.com/honu5/LeetCode/tree/master/1454-remove-palindromic-subsequences) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/honu5/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/honu5/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2128-reverse-prefix-of-word](https://github.com/honu5/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2561-number-of-distinct-averages](https://github.com/honu5/LeetCode/tree/master/2561-number-of-distinct-averages) |
@@ -225,6 +228,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/honu5/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/honu5/LeetCode/tree/master/0268-missing-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/honu5/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/honu5/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/honu5/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/honu5/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Graph
