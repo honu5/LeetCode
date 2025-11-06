@@ -141,6 +141,7 @@
 | [0202-happy-number](https://github.com/honu5/LeetCode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/honu5/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/honu5/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/honu5/LeetCode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/honu5/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0874-backspace-string-compare](https://github.com/honu5/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1168-duplicate-zeros](https://github.com/honu5/LeetCode/tree/master/1168-duplicate-zeros) |
@@ -168,6 +169,7 @@
 | [0058-length-of-last-word](https://github.com/honu5/LeetCode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/honu5/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/honu5/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/honu5/LeetCode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/honu5/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0874-backspace-string-compare](https://github.com/honu5/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1044-find-common-characters](https://github.com/honu5/LeetCode/tree/master/1044-find-common-characters) |
@@ -251,6 +253,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/honu5/LeetCode/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/honu5/LeetCode/tree/master/0392-is-subsequence) |
 ## Memoization
 |  |
 | ------- |
