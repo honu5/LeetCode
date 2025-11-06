@@ -15,7 +15,6 @@ class Solution(object):
                     found=True
                     r=i+1
                     break
-                    print(l,i,r)
             if not found:
                     return False
             l+=1
