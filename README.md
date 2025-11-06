@@ -146,6 +146,7 @@
 | [1168-duplicate-zeros](https://github.com/honu5/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1454-remove-palindromic-subsequences](https://github.com/honu5/LeetCode/tree/master/1454-remove-palindromic-subsequences) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/honu5/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/honu5/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/honu5/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2128-reverse-prefix-of-word](https://github.com/honu5/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2561-number-of-distinct-averages](https://github.com/honu5/LeetCode/tree/master/2561-number-of-distinct-averages) |
@@ -173,6 +174,7 @@
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/honu5/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/honu5/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1454-remove-palindromic-subsequences](https://github.com/honu5/LeetCode/tree/master/1454-remove-palindromic-subsequences) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/honu5/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1666-make-the-string-great](https://github.com/honu5/LeetCode/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/honu5/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/honu5/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -286,4 +288,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/honu5/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## String Matching
+|  |
+| ------- |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/honu5/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 <!---LeetCode Topics End-->
