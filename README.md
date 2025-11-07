@@ -155,6 +155,7 @@
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/honu5/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/honu5/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/honu5/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1894-merge-strings-alternately](https://github.com/honu5/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/honu5/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/honu5/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/honu5/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -192,6 +193,7 @@
 | [1720-crawler-log-folder](https://github.com/honu5/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/honu5/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1797-goal-parser-interpretation](https://github.com/honu5/LeetCode/tree/master/1797-goal-parser-interpretation) |
+| [1894-merge-strings-alternately](https://github.com/honu5/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/honu5/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/honu5/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/honu5/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
