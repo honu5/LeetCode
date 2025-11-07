@@ -46,6 +46,7 @@
 | [2566-number-of-unequal-triplets-in-array](https://github.com/honu5/LeetCode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/honu5/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/honu5/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2634-minimum-common-value](https://github.com/honu5/LeetCode/tree/master/2634-minimum-common-value) |
 | [2756-buy-two-chocolates](https://github.com/honu5/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2836-neither-minimum-nor-maximum](https://github.com/honu5/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2892-check-if-array-is-good](https://github.com/honu5/LeetCode/tree/master/2892-check-if-array-is-good) |
@@ -72,6 +73,7 @@
 | [2561-number-of-distinct-averages](https://github.com/honu5/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/honu5/LeetCode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/honu5/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2634-minimum-common-value](https://github.com/honu5/LeetCode/tree/master/2634-minimum-common-value) |
 | [2892-check-if-array-is-good](https://github.com/honu5/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/honu5/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/honu5/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -158,6 +160,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/honu5/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2561-number-of-distinct-averages](https://github.com/honu5/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/honu5/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2634-minimum-common-value](https://github.com/honu5/LeetCode/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/honu5/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Heap (Priority Queue)
 |  |
@@ -246,6 +249,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/honu5/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/honu5/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/honu5/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2634-minimum-common-value](https://github.com/honu5/LeetCode/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/honu5/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Graph
 |  |
