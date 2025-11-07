@@ -17,6 +17,7 @@
 | [0682-baseball-game](https://github.com/honu5/LeetCode/tree/master/0682-baseball-game) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/honu5/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/honu5/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0841-shortest-distance-to-a-character](https://github.com/honu5/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0927-sum-of-subsequence-widths](https://github.com/honu5/LeetCode/tree/master/0927-sum-of-subsequence-widths) |
 | [0944-smallest-range-i](https://github.com/honu5/LeetCode/tree/master/0944-smallest-range-i) |
 | [0978-valid-mountain-array](https://github.com/honu5/LeetCode/tree/master/0978-valid-mountain-array) |
@@ -151,6 +152,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/honu5/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/honu5/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/honu5/LeetCode/tree/master/0696-count-binary-substrings) |
+| [0841-shortest-distance-to-a-character](https://github.com/honu5/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0874-backspace-string-compare](https://github.com/honu5/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/honu5/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1168-duplicate-zeros](https://github.com/honu5/LeetCode/tree/master/1168-duplicate-zeros) |
@@ -187,6 +189,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/honu5/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/honu5/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/honu5/LeetCode/tree/master/0696-count-binary-substrings) |
+| [0841-shortest-distance-to-a-character](https://github.com/honu5/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0874-backspace-string-compare](https://github.com/honu5/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/honu5/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1044-find-common-characters](https://github.com/honu5/LeetCode/tree/master/1044-find-common-characters) |
