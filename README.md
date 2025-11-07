@@ -150,6 +150,7 @@
 | [0392-is-subsequence](https://github.com/honu5/LeetCode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/honu5/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/honu5/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/honu5/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0874-backspace-string-compare](https://github.com/honu5/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/honu5/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1168-duplicate-zeros](https://github.com/honu5/LeetCode/tree/master/1168-duplicate-zeros) |
@@ -185,6 +186,7 @@
 | [0392-is-subsequence](https://github.com/honu5/LeetCode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/honu5/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/honu5/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/honu5/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0874-backspace-string-compare](https://github.com/honu5/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/honu5/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1044-find-common-characters](https://github.com/honu5/LeetCode/tree/master/1044-find-common-characters) |
