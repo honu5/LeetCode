@@ -135,6 +135,7 @@
 | [0927-sum-of-subsequence-widths](https://github.com/honu5/LeetCode/tree/master/0927-sum-of-subsequence-widths) |
 | [0944-smallest-range-i](https://github.com/honu5/LeetCode/tree/master/0944-smallest-range-i) |
 | [1031-add-to-array-form-of-integer](https://github.com/honu5/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/honu5/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/honu5/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/honu5/LeetCode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/honu5/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
@@ -205,6 +206,7 @@
 | [1044-find-common-characters](https://github.com/honu5/LeetCode/tree/master/1044-find-common-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/honu5/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/honu5/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/honu5/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1454-remove-palindromic-subsequences](https://github.com/honu5/LeetCode/tree/master/1454-remove-palindromic-subsequences) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/honu5/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1666-make-the-string-great](https://github.com/honu5/LeetCode/tree/master/1666-make-the-string-great) |
@@ -321,6 +323,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/honu5/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/honu5/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/honu5/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/honu5/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1873-longest-nice-substring](https://github.com/honu5/LeetCode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/honu5/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Linked List
