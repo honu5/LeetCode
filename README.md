@@ -71,6 +71,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/honu5/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/honu5/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/honu5/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1873-longest-nice-substring](https://github.com/honu5/LeetCode/tree/master/1873-longest-nice-substring) |
 | [2331-intersection-of-multiple-arrays](https://github.com/honu5/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/honu5/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2502-sort-the-people](https://github.com/honu5/LeetCode/tree/master/2502-sort-the-people) |
@@ -208,6 +209,7 @@
 | [1720-crawler-log-folder](https://github.com/honu5/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/honu5/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1797-goal-parser-interpretation](https://github.com/honu5/LeetCode/tree/master/1797-goal-parser-interpretation) |
+| [1873-longest-nice-substring](https://github.com/honu5/LeetCode/tree/master/1873-longest-nice-substring) |
 | [1894-merge-strings-alternately](https://github.com/honu5/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/honu5/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/honu5/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -300,6 +302,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/honu5/LeetCode/tree/master/0268-missing-number) |
+| [1873-longest-nice-substring](https://github.com/honu5/LeetCode/tree/master/1873-longest-nice-substring) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/honu5/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Number Theory
 |  |
@@ -315,6 +318,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/honu5/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/honu5/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/honu5/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1873-longest-nice-substring](https://github.com/honu5/LeetCode/tree/master/1873-longest-nice-substring) |
 ## Linked List
 |  |
 | ------- |
@@ -323,6 +327,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/honu5/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1873-longest-nice-substring](https://github.com/honu5/LeetCode/tree/master/1873-longest-nice-substring) |
 ## Quickselect
 |  |
 | ------- |
