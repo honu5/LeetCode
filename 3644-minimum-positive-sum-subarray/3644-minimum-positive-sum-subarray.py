@@ -11,7 +11,7 @@ class Solution(object):
         val=float("inf")
         for i in range(l,r+1):
             for a in range(0,len(nums)):
-                if a + i > len(nums):      # avoid going out of range
+                if a + i > len(nums):      
                     break
                 if sum(nums[a:a+i])<=0:
                     
@@ -23,7 +23,7 @@ class Solution(object):
         if negative:
             return -1
     
-        return val if val>0 else -1
+        return val
 
 
         
