@@ -13,7 +13,6 @@ class Solution(object):
                 if j not in vowels:
                     break
                 sett.add(j)
-                print(sett)
                 if len(sett)>=5:
                     count+=1
         return count
