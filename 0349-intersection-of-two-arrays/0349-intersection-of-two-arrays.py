@@ -1,8 +1,13 @@
-class Solution:
-    def intersection(self, nums1: List[int], nums2: List[int]) -> List[int]:
-        n1,n2=set(nums1),set(nums2)
+class Solution(object):
+    def intersection(self, nums1, nums2):
+        """
+        :type nums1: List[int]
+        :type nums2: List[int]
+        :rtype: List[int]
+        """
         ans=[]
-        for i in n1:
-            if i in n2:
+        for i in nums2:
+            if i in nums1 and i not in ans:
                 ans.append(i)
         return ans
+        
