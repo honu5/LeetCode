@@ -38,6 +38,7 @@
 | [1630-arithmetic-subarrays](https://github.com/honu5/LeetCode/tree/master/1630-arithmetic-subarrays) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/honu5/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1720-crawler-log-folder](https://github.com/honu5/LeetCode/tree/master/1720-crawler-log-folder) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/honu5/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/honu5/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2058-concatenation-of-array](https://github.com/honu5/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/honu5/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -224,6 +225,7 @@
 | [1666-make-the-string-great](https://github.com/honu5/LeetCode/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/honu5/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/honu5/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/honu5/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1797-goal-parser-interpretation](https://github.com/honu5/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1873-longest-nice-substring](https://github.com/honu5/LeetCode/tree/master/1873-longest-nice-substring) |
 | [1894-merge-strings-alternately](https://github.com/honu5/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -304,6 +306,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/honu5/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/honu5/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/honu5/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/honu5/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/honu5/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3644-minimum-positive-sum-subarray](https://github.com/honu5/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Game Theory
