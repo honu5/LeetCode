@@ -60,6 +60,7 @@
 | [2892-check-if-array-is-good](https://github.com/honu5/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/honu5/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/honu5/LeetCode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/honu5/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3226-minimum-number-game](https://github.com/honu5/LeetCode/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/honu5/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/honu5/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -158,6 +159,7 @@
 | [2491-smallest-even-multiple](https://github.com/honu5/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2650-split-with-minimum-sum](https://github.com/honu5/LeetCode/tree/master/2650-split-with-minimum-sum) |
 | [2812-find-the-maximum-achievable-number](https://github.com/honu5/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/honu5/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/honu5/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/honu5/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Two Pointers
