@@ -10,11 +10,12 @@ class Solution(object):
         def comp(a,b):
             if a+b>b+a:
                 return -1
-            elif a+b<b+a:
+            if a+b>a+b:
                 return 1
             else:
-                0
+                return 0
         nums.sort(key=cmp_to_key(comp))
         if nums[0]=="0":
             return "0"
         return "".join(nums)
+    
