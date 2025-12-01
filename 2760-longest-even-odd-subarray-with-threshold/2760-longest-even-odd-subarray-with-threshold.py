@@ -15,6 +15,5 @@ class Solution(object):
                 while right<n and nums[right]<=threshold and nums[right]%2!=nums[right-1]%2:
                     right+=1
                 current=right-i
-                print(current)
                 longest=max(current,longest)
         return longest
