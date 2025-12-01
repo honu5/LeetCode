@@ -57,6 +57,7 @@
 | [2585-delete-greatest-value-in-each-row](https://github.com/honu5/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2634-minimum-common-value](https://github.com/honu5/LeetCode/tree/master/2634-minimum-common-value) |
 | [2756-buy-two-chocolates](https://github.com/honu5/LeetCode/tree/master/2756-buy-two-chocolates) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/honu5/LeetCode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2836-neither-minimum-nor-maximum](https://github.com/honu5/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2892-check-if-array-is-good](https://github.com/honu5/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/honu5/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -360,6 +361,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/honu5/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/honu5/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/honu5/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/honu5/LeetCode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [3644-minimum-positive-sum-subarray](https://github.com/honu5/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Linked List
 |  |
