@@ -64,6 +64,7 @@
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/honu5/LeetCode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/honu5/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3226-minimum-number-game](https://github.com/honu5/LeetCode/tree/master/3226-minimum-number-game) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/honu5/LeetCode/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/honu5/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/honu5/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/honu5/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -284,6 +285,7 @@
 | [2585-delete-greatest-value-in-each-row](https://github.com/honu5/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/honu5/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3226-minimum-number-game](https://github.com/honu5/LeetCode/tree/master/3226-minimum-number-game) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/honu5/LeetCode/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3447-clear-digits](https://github.com/honu5/LeetCode/tree/master/3447-clear-digits) |
 ## Greedy
 |  |
@@ -325,6 +327,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/honu5/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/honu5/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/honu5/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/honu5/LeetCode/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3644-minimum-positive-sum-subarray](https://github.com/honu5/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Game Theory
 |  |
