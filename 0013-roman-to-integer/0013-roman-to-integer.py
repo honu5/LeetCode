@@ -5,13 +5,25 @@ class Solution(object):
         :rtype: int
         """
         val=0
-        nums={'I':1,'V':5,'X':10,'L':50,'C':100,'D':500,'M':1000}
-        for i in range(len(s)-1):
-            if nums[s[i]]>=nums[s[i+1]]:
-                val+=nums[s[i]]
-            else:val-=nums[s[i]]
-        val+=nums[s[-1]]
+        
+        roman={"I":1,"V":5,"X":10,"L":50,"C":100,"D":500,"M":1000}
+        if len(s)==1:
+            return roman[s[0]]
+        i=0
+        while i<len(s)-1:
+            if roman[s[i]]>=roman[s[i+1]]:
+                val+=roman[s[i]]
+            else:
+                val+=(roman[s[i+1]]-roman[s[i]])
+                i+=1
+            i+=1
+        if roman[s[-2]]>=roman[s[-1]]:
+            val+=roman[s[-1]]
+        
         return val
+
+
+
 
 
         
