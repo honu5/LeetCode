@@ -4,25 +4,25 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
-        
         ans=[]
+        if len(s)==1 or s[0] in [")","]","}"]:
+            return False
         for i in s:
-            if ans and  i == ']':
-                if ans[-1]!='[':
+            if i=="]":
+                if not ans or ans[-1]!="[":
                     return False
-                else:
-                    ans.pop()
-        
-            elif ans and  i == ')':
-                if ans[-1]!='(':
+                ans.pop()
+            elif i==")":
+                if not ans or ans[-1]!=  "(":
                     return False
-                else:
-                    ans.pop()
-            elif ans and i=='}':
-                if ans[-1]!='{':
+                ans.pop()
+            elif i=="}":
+                if not ans or ans[-1]!= "{":
                     return False
-                else:
-                    ans.pop()
+                ans.pop()
             else:
                 ans.append(i)
-        return not ans
+        if ans:
+            return False
+        return True
+                
