@@ -5,8 +5,7 @@ class Solution(object):
         :rtype: bool
         """
         ans=[]
-        if len(s)==1 or s[0] in [")","]","}"]:
-            return False
+        
         for i in s:
             if i=="]":
                 if not ans or ans[-1]!="[":
