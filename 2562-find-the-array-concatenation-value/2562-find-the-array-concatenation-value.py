@@ -15,6 +15,5 @@ class Solution(object):
             summ+=int(strs)
             l+=1
             r-=1
-            print(summ)
         
         return summ
