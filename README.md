@@ -41,6 +41,7 @@
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/honu5/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1720-crawler-log-folder](https://github.com/honu5/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/honu5/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1816-truncate-sentence](https://github.com/honu5/LeetCode/tree/master/1816-truncate-sentence) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/honu5/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/honu5/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/honu5/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -248,6 +249,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/honu5/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/honu5/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1797-goal-parser-interpretation](https://github.com/honu5/LeetCode/tree/master/1797-goal-parser-interpretation) |
+| [1816-truncate-sentence](https://github.com/honu5/LeetCode/tree/master/1816-truncate-sentence) |
 | [1873-longest-nice-substring](https://github.com/honu5/LeetCode/tree/master/1873-longest-nice-substring) |
 | [1894-merge-strings-alternately](https://github.com/honu5/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/honu5/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
