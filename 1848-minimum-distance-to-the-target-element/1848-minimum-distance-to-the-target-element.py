@@ -6,10 +6,11 @@ class Solution(object):
         :type start: int
         :rtype: int
         """
-        ans=[]
+        n=len(nums)
         for i in range(len(nums)):
             if target==nums[i]:
-                ans.append(abs(i-start))
-        return min(ans)
+                val=abs(i-start)
+                n=min(n,val)
+        return n
         
         
