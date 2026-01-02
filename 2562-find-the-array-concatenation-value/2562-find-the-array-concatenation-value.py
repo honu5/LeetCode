@@ -7,12 +7,14 @@ class Solution(object):
         l=0
         r=len(nums)-1
         summ=0
-        while l<r:
+        while l<=r:
+            if l==r:
+                summ+=nums[l]
+                break
             strs=str(nums[l])+str(nums[r])
             summ+=int(strs)
             l+=1
             r-=1
             print(summ)
-        if len(nums)%2==1:
-            summ+=nums[len(nums)//2]
+        
         return summ
