@@ -44,6 +44,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/honu5/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/honu5/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1512-number-of-good-pairs](https://github.com/honu5/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1550-three-consecutive-odds](https://github.com/honu5/LeetCode/tree/master/1550-three-consecutive-odds) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/honu5/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1603-running-sum-of-1d-array](https://github.com/honu5/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/honu5/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
