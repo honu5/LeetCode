@@ -38,6 +38,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/honu5/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/honu5/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/honu5/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1389-create-target-array-in-the-given-order](https://github.com/honu5/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/honu5/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/honu5/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1603-running-sum-of-1d-array](https://github.com/honu5/LeetCode/tree/master/1603-running-sum-of-1d-array) |
@@ -291,6 +292,7 @@
 | ------- |
 | [0682-baseball-game](https://github.com/honu5/LeetCode/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/honu5/LeetCode/tree/master/0874-backspace-string-compare) |
+| [1389-create-target-array-in-the-given-order](https://github.com/honu5/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [2058-concatenation-of-array](https://github.com/honu5/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/honu5/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/honu5/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
