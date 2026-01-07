@@ -51,6 +51,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/honu5/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1630-arithmetic-subarrays](https://github.com/honu5/LeetCode/tree/master/1630-arithmetic-subarrays) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/honu5/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1672-richest-customer-wealth](https://github.com/honu5/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/honu5/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1720-crawler-log-folder](https://github.com/honu5/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/honu5/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -381,6 +382,7 @@
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/honu5/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1672-richest-customer-wealth](https://github.com/honu5/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/honu5/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Bit Manipulation
 |  |
