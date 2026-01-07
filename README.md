@@ -16,6 +16,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/honu5/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/honu5/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/honu5/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/honu5/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/honu5/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/honu5/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/honu5/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -87,6 +88,7 @@
 | [0202-happy-number](https://github.com/honu5/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/honu5/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/honu5/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/honu5/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1039-find-the-town-judge](https://github.com/honu5/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/honu5/LeetCode/tree/master/1044-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/honu5/LeetCode/tree/master/1122-relative-sort-array) |
@@ -235,6 +237,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/honu5/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/honu5/LeetCode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/honu5/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/honu5/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0680-valid-palindrome-ii](https://github.com/honu5/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/honu5/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0841-shortest-distance-to-a-character](https://github.com/honu5/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
