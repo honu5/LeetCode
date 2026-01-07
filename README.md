@@ -56,6 +56,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/honu5/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-crawler-log-folder](https://github.com/honu5/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1748-sum-of-unique-elements](https://github.com/honu5/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/honu5/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/honu5/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1816-truncate-sentence](https://github.com/honu5/LeetCode/tree/master/1816-truncate-sentence) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/honu5/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
