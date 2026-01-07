@@ -11,13 +11,11 @@ class Solution(object):
                 ans.append(i)
         if len(ans)==1:
             return ans
-        print(ans)
         m=len(list1)+len(list2)+1
         anss=[1]
         for i in ans:
             
             val=list1.index(i)+list2.index(i)
-            print(m,val)
             if val<m:
                 anss.pop()
                 anss.append(i)
