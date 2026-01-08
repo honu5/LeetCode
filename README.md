@@ -67,6 +67,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/honu5/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/honu5/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1995-count-special-quadruplets](https://github.com/honu5/LeetCode/tree/master/1995-count-special-quadruplets) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/honu5/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2058-concatenation-of-array](https://github.com/honu5/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/honu5/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/honu5/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -125,6 +126,7 @@
 | [1873-longest-nice-substring](https://github.com/honu5/LeetCode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/honu5/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [1995-count-special-quadruplets](https://github.com/honu5/LeetCode/tree/master/1995-count-special-quadruplets) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/honu5/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/honu5/LeetCode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2331-intersection-of-multiple-arrays](https://github.com/honu5/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/honu5/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -185,6 +187,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/honu5/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/honu5/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/honu5/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/honu5/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2331-intersection-of-multiple-arrays](https://github.com/honu5/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 ## Math
 |  |
