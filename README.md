@@ -81,6 +81,7 @@
 | [2215-find-the-difference-of-two-arrays](https://github.com/honu5/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/honu5/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/honu5/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2239-find-closest-number-to-zero](https://github.com/honu5/LeetCode/tree/master/2239-find-closest-number-to-zero) |
 | [2331-intersection-of-multiple-arrays](https://github.com/honu5/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/honu5/LeetCode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/honu5/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
