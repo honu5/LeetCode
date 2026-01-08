@@ -16,7 +16,6 @@ class Solution(object):
         most=count.most_common()
         mosts=most[0][1]
         for i,frq in count.items():
-            print(i,frq,m,val)
             if i%2==0 and (frq>m or (frq==m and i<val)):
                 val=i
                 m=frq
