@@ -64,6 +64,7 @@
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/honu5/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/honu5/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/honu5/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/honu5/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2058-concatenation-of-array](https://github.com/honu5/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/honu5/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/honu5/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -198,6 +199,7 @@
 | [1430-find-the-k-beauty-of-a-number](https://github.com/honu5/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1512-number-of-good-pairs](https://github.com/honu5/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/honu5/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/honu5/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/honu5/LeetCode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/honu5/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/honu5/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
@@ -410,6 +412,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/honu5/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/honu5/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/honu5/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Monotonic Stack
