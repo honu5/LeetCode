@@ -64,6 +64,7 @@
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/honu5/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/honu5/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/honu5/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/honu5/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/honu5/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2058-concatenation-of-array](https://github.com/honu5/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/honu5/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -290,6 +291,7 @@
 | [1816-truncate-sentence](https://github.com/honu5/LeetCode/tree/master/1816-truncate-sentence) |
 | [1873-longest-nice-substring](https://github.com/honu5/LeetCode/tree/master/1873-longest-nice-substring) |
 | [1894-merge-strings-alternately](https://github.com/honu5/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/honu5/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/honu5/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2128-reverse-prefix-of-word](https://github.com/honu5/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/honu5/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
