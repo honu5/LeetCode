@@ -224,6 +224,7 @@
 | [0189-rotate-array](https://github.com/honu5/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/honu5/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/honu5/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/honu5/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/honu5/LeetCode/tree/master/0268-missing-number) |
 | [0927-sum-of-subsequence-widths](https://github.com/honu5/LeetCode/tree/master/0927-sum-of-subsequence-widths) |
 | [0944-smallest-range-i](https://github.com/honu5/LeetCode/tree/master/0944-smallest-range-i) |
@@ -358,6 +359,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/honu5/LeetCode/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/honu5/LeetCode/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/honu5/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1389-create-target-array-in-the-given-order](https://github.com/honu5/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
@@ -452,6 +454,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/honu5/LeetCode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/honu5/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/honu5/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/honu5/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
