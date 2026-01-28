@@ -86,6 +86,7 @@
 | [2255-count-prefixes-of-a-given-string](https://github.com/honu5/LeetCode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2331-intersection-of-multiple-arrays](https://github.com/honu5/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/honu5/LeetCode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
+| [2367-number-of-arithmetic-triplets](https://github.com/honu5/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/honu5/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/honu5/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/honu5/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -150,6 +151,7 @@
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/honu5/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/honu5/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2331-intersection-of-multiple-arrays](https://github.com/honu5/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2367-number-of-arithmetic-triplets](https://github.com/honu5/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/honu5/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/honu5/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2502-sort-the-people](https://github.com/honu5/LeetCode/tree/master/2502-sort-the-people) |
@@ -274,6 +276,7 @@
 | [2128-reverse-prefix-of-word](https://github.com/honu5/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/honu5/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/honu5/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2367-number-of-arithmetic-triplets](https://github.com/honu5/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2460-apply-operations-to-an-array](https://github.com/honu5/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/honu5/LeetCode/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2561-number-of-distinct-averages](https://github.com/honu5/LeetCode/tree/master/2561-number-of-distinct-averages) |
@@ -514,6 +517,7 @@
 |  |
 | ------- |
 | [1995-count-special-quadruplets](https://github.com/honu5/LeetCode/tree/master/1995-count-special-quadruplets) |
+| [2367-number-of-arithmetic-triplets](https://github.com/honu5/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/honu5/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Recursion
 |  |
