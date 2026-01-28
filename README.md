@@ -279,6 +279,7 @@
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/honu5/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/honu5/LeetCode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/honu5/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3794-reverse-string-prefix](https://github.com/honu5/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -342,6 +343,7 @@
 | [2887-sort-vowels-in-a-string](https://github.com/honu5/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/honu5/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3447-clear-digits](https://github.com/honu5/LeetCode/tree/master/3447-clear-digits) |
+| [3794-reverse-string-prefix](https://github.com/honu5/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## Stack
 |  |
 | ------- |
