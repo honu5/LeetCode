@@ -91,6 +91,7 @@
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/honu5/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/honu5/LeetCode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/honu5/LeetCode/tree/master/2502-sort-the-people) |
+| [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/honu5/LeetCode/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2553-separate-the-digits-in-an-array](https://github.com/honu5/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/honu5/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2562-find-the-array-concatenation-value](https://github.com/honu5/LeetCode/tree/master/2562-find-the-array-concatenation-value) |
@@ -272,6 +273,7 @@
 | [2128-reverse-prefix-of-word](https://github.com/honu5/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/honu5/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/honu5/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/honu5/LeetCode/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2561-number-of-distinct-averages](https://github.com/honu5/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2562-find-the-array-concatenation-value](https://github.com/honu5/LeetCode/tree/master/2562-find-the-array-concatenation-value) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/honu5/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
