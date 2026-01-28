@@ -85,6 +85,7 @@
 | [2239-find-closest-number-to-zero](https://github.com/honu5/LeetCode/tree/master/2239-find-closest-number-to-zero) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/honu5/LeetCode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2331-intersection-of-multiple-arrays](https://github.com/honu5/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/honu5/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/honu5/LeetCode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2367-number-of-arithmetic-triplets](https://github.com/honu5/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/honu5/LeetCode/tree/master/2404-most-frequent-even-element) |
@@ -151,6 +152,7 @@
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/honu5/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/honu5/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2331-intersection-of-multiple-arrays](https://github.com/honu5/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/honu5/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/honu5/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/honu5/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/honu5/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -217,6 +219,7 @@
 | [2085-count-common-words-with-one-occurrence](https://github.com/honu5/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/honu5/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/honu5/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/honu5/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2404-most-frequent-even-element](https://github.com/honu5/LeetCode/tree/master/2404-most-frequent-even-element) |
 ## Math
 |  |
