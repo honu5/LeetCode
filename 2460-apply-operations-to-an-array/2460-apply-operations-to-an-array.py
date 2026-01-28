@@ -4,22 +4,13 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        n=len(nums)
-        idx=0
-    
-        for i in range(n):
-            if i<n-1 and  nums[i]==nums[i+1]:
-                nums[i],nums[i+1]=nums[i]*2,0
-            if nums[i]!=0:
-                nums[i],nums[idx]=nums[idx],nums[i]
-                idx+=1
-            
-
-        
-        return nums
-                
-
-        
-
-        
-        
+        for i in range(len(nums)-1):
+            if nums[i]==nums[i+1]:
+                nums[i]=nums[i]*2
+                nums[i+1]=0
+        zeros=nums.count(0)
+        new_s=[x for x in nums if x!=0]
+        print(new_s)
+        aluti = [0]*zeros
+        print(aluti)
+        return new_s+aluti
