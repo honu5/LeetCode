@@ -276,6 +276,7 @@
 | [2562-find-the-array-concatenation-value](https://github.com/honu5/LeetCode/tree/master/2562-find-the-array-concatenation-value) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/honu5/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2634-minimum-common-value](https://github.com/honu5/LeetCode/tree/master/2634-minimum-common-value) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/honu5/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/honu5/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/honu5/LeetCode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/honu5/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -339,6 +340,7 @@
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/honu5/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/honu5/LeetCode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/honu5/LeetCode/tree/master/2502-sort-the-people) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/honu5/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/honu5/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2887-sort-vowels-in-a-string](https://github.com/honu5/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/honu5/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -394,6 +396,7 @@
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/honu5/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2650-split-with-minimum-sum](https://github.com/honu5/LeetCode/tree/master/2650-split-with-minimum-sum) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/honu5/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/honu5/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2756-buy-two-chocolates](https://github.com/honu5/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/honu5/LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Binary Search
