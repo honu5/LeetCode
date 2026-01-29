@@ -233,6 +233,7 @@
 | [0231-power-of-two](https://github.com/honu5/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/honu5/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/honu5/LeetCode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/honu5/LeetCode/tree/master/0326-power-of-three) |
 | [0927-sum-of-subsequence-widths](https://github.com/honu5/LeetCode/tree/master/0927-sum-of-subsequence-widths) |
 | [0944-smallest-range-i](https://github.com/honu5/LeetCode/tree/master/0944-smallest-range-i) |
 | [1031-add-to-array-form-of-integer](https://github.com/honu5/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
@@ -526,4 +527,5 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/honu5/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/honu5/LeetCode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
