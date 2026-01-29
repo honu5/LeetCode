@@ -235,6 +235,7 @@
 | [0263-ugly-number](https://github.com/honu5/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/honu5/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/honu5/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/honu5/LeetCode/tree/master/0342-power-of-four) |
 | [0927-sum-of-subsequence-widths](https://github.com/honu5/LeetCode/tree/master/0927-sum-of-subsequence-widths) |
 | [0944-smallest-range-i](https://github.com/honu5/LeetCode/tree/master/0944-smallest-range-i) |
 | [1031-add-to-array-form-of-integer](https://github.com/honu5/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
@@ -465,6 +466,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/honu5/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/honu5/LeetCode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/honu5/LeetCode/tree/master/0342-power-of-four) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/honu5/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1873-longest-nice-substring](https://github.com/honu5/LeetCode/tree/master/1873-longest-nice-substring) |
 | [2032-two-out-of-three](https://github.com/honu5/LeetCode/tree/master/2032-two-out-of-three) |
@@ -529,4 +531,5 @@
 | ------- |
 | [0231-power-of-two](https://github.com/honu5/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/honu5/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/honu5/LeetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
