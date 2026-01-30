@@ -36,6 +36,7 @@
 | [1122-relative-sort-array](https://github.com/honu5/LeetCode/tree/master/1122-relative-sort-array) |
 | [1168-duplicate-zeros](https://github.com/honu5/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/honu5/LeetCode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/honu5/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1319-unique-number-of-occurrences](https://github.com/honu5/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/honu5/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/honu5/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -243,6 +244,7 @@
 | [0927-sum-of-subsequence-widths](https://github.com/honu5/LeetCode/tree/master/0927-sum-of-subsequence-widths) |
 | [0944-smallest-range-i](https://github.com/honu5/LeetCode/tree/master/0944-smallest-range-i) |
 | [1031-add-to-array-form-of-integer](https://github.com/honu5/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/honu5/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/honu5/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1512-number-of-good-pairs](https://github.com/honu5/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/honu5/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
