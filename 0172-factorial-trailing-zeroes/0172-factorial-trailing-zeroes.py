@@ -11,7 +11,7 @@ class Solution(object):
             val*=n
             n-=1
         
-        ret=list(str(val))
+        ret=str(val)
         vals=0
         for i in range(len(ret)-1,-1,-1):
             if  ret[i]!='0':
