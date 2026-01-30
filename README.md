@@ -229,6 +229,7 @@
 | [0013-roman-to-integer](https://github.com/honu5/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/honu5/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/honu5/LeetCode/tree/master/0070-climbing-stairs) |
+| [0172-factorial-trailing-zeroes](https://github.com/honu5/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/honu5/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/honu5/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/honu5/LeetCode/tree/master/0231-power-of-two) |
