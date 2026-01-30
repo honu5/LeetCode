@@ -4,21 +4,12 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
-        val=1
-        if n==0:
-            return 0
+        ns=0
         while n:
-            val*=n
-            n-=1
-        
-        ret=str(val)
-        vals=0
-        for i in range(len(ret)-1,-1,-1):
-            if  ret[i]!='0':
-                break
-            else:
-                vals+=1
-        return vals
-
+            
+            ns+=(n//5)
+            n//=5
+            
+        return ns
 
         
