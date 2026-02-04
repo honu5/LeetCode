@@ -242,6 +242,7 @@
 | [0326-power-of-three](https://github.com/honu5/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/honu5/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/honu5/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0390-elimination-game](https://github.com/honu5/LeetCode/tree/master/0390-elimination-game) |
 | [0412-fizz-buzz](https://github.com/honu5/LeetCode/tree/master/0412-fizz-buzz) |
 | [0927-sum-of-subsequence-widths](https://github.com/honu5/LeetCode/tree/master/0927-sum-of-subsequence-widths) |
 | [0944-smallest-range-i](https://github.com/honu5/LeetCode/tree/master/0944-smallest-range-i) |
@@ -553,6 +554,7 @@
 | [0231-power-of-two](https://github.com/honu5/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/honu5/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/honu5/LeetCode/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/honu5/LeetCode/tree/master/0390-elimination-game) |
 ## Geometry
 |  |
 | ------- |
