@@ -258,6 +258,7 @@
 | [2469-convert-the-temperature](https://github.com/honu5/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/honu5/LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2491-smallest-even-multiple](https://github.com/honu5/LeetCode/tree/master/2491-smallest-even-multiple) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/honu5/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2650-split-with-minimum-sum](https://github.com/honu5/LeetCode/tree/master/2650-split-with-minimum-sum) |
 | [2812-find-the-maximum-achievable-number](https://github.com/honu5/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/honu5/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
