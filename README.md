@@ -120,6 +120,7 @@
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/honu5/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/honu5/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/honu5/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3634-minimum-removals-to-balance-array](https://github.com/honu5/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3644-minimum-positive-sum-subarray](https://github.com/honu5/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/honu5/LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Hash Table
@@ -207,6 +208,7 @@
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/honu5/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/honu5/LeetCode/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/honu5/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3634-minimum-removals-to-balance-array](https://github.com/honu5/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/honu5/LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Counting
 |  |
@@ -517,6 +519,7 @@
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/honu5/LeetCode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/honu5/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/honu5/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3634-minimum-removals-to-balance-array](https://github.com/honu5/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3644-minimum-positive-sum-subarray](https://github.com/honu5/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Linked List
 |  |
