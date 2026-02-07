@@ -251,6 +251,7 @@
 | [0927-sum-of-subsequence-widths](https://github.com/honu5/LeetCode/tree/master/0927-sum-of-subsequence-widths) |
 | [0944-smallest-range-i](https://github.com/honu5/LeetCode/tree/master/0944-smallest-range-i) |
 | [1031-add-to-array-form-of-integer](https://github.com/honu5/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
+| [1154-day-of-the-year](https://github.com/honu5/LeetCode/tree/master/1154-day-of-the-year) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/honu5/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1323-maximum-69-number](https://github.com/honu5/LeetCode/tree/master/1323-maximum-69-number) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/honu5/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -348,6 +349,7 @@
 | [0953-reverse-only-letters](https://github.com/honu5/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1044-find-common-characters](https://github.com/honu5/LeetCode/tree/master/1044-find-common-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/honu5/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1154-day-of-the-year](https://github.com/honu5/LeetCode/tree/master/1154-day-of-the-year) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/honu5/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/honu5/LeetCode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1408-string-matching-in-an-array](https://github.com/honu5/LeetCode/tree/master/1408-string-matching-in-an-array) |
