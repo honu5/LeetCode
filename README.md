@@ -248,6 +248,7 @@
 | [0390-elimination-game](https://github.com/honu5/LeetCode/tree/master/0390-elimination-game) |
 | [0412-fizz-buzz](https://github.com/honu5/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/honu5/LeetCode/tree/master/0415-add-strings) |
+| [0728-self-dividing-numbers](https://github.com/honu5/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0927-sum-of-subsequence-widths](https://github.com/honu5/LeetCode/tree/master/0927-sum-of-subsequence-widths) |
 | [0944-smallest-range-i](https://github.com/honu5/LeetCode/tree/master/0944-smallest-range-i) |
 | [1031-add-to-array-form-of-integer](https://github.com/honu5/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
