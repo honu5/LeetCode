@@ -1,12 +1,18 @@
-class Solution:
-    def arrangeCoins(self, n: int) -> int:
-        cnt=0
-        if n==1:
-            return 1
-        for  i in range(1,n+1):
-            a=i*(i+1)/2
-            cnt+=1
-            if a>n:
-                break
-        return cnt-1
+class Solution(object):
+    def arrangeCoins(self, n):
+        """
+        :type n: int
+        :rtype: int
+        """
+        val=0
+        i=1
+
+        while n>0:
+            n-=i
+            i+=1
+            val+=1
+        if n==0:
+            return val
+        else: return val-1
+
         
