@@ -14,7 +14,6 @@ class Solution(object):
         if len(coordinates)==2:
             return True
         slp=(float(coordinates[1][1])-float(coordinates[0][1]))/(float(coordinates[1][0])-float(coordinates[0][0]))
-        print(slp)
         for i in range(2,len(coordinates)):
             if ((float(coordinates[i][1])-float(coordinates[0][1]))/(float(coordinates[i][0])-float(coordinates[0][0])))!=slp:
                 return False
