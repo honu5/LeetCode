@@ -256,6 +256,7 @@
 | [0944-smallest-range-i](https://github.com/honu5/LeetCode/tree/master/0944-smallest-range-i) |
 | [1025-divisor-game](https://github.com/honu5/LeetCode/tree/master/1025-divisor-game) |
 | [1031-add-to-array-form-of-integer](https://github.com/honu5/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
+| [1103-distribute-candies-to-people](https://github.com/honu5/LeetCode/tree/master/1103-distribute-candies-to-people) |
 | [1154-day-of-the-year](https://github.com/honu5/LeetCode/tree/master/1154-day-of-the-year) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/honu5/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1323-maximum-69-number](https://github.com/honu5/LeetCode/tree/master/1323-maximum-69-number) |
@@ -416,6 +417,7 @@
 | [0415-add-strings](https://github.com/honu5/LeetCode/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/honu5/LeetCode/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/honu5/LeetCode/tree/master/0874-backspace-string-compare) |
+| [1103-distribute-candies-to-people](https://github.com/honu5/LeetCode/tree/master/1103-distribute-candies-to-people) |
 | [1389-create-target-array-in-the-given-order](https://github.com/honu5/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [2058-concatenation-of-array](https://github.com/honu5/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/honu5/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
