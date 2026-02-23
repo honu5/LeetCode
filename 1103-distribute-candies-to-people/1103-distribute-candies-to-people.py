@@ -12,7 +12,6 @@ class Solution(object):
             n-=i
             ans[i%num_people-1]+=i
             i+=1
-        print(ans,i)
         if n<0:
             ans[((i-1)%num_people)-1]+=n
         
