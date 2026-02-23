@@ -254,6 +254,7 @@
 | [0728-self-dividing-numbers](https://github.com/honu5/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0927-sum-of-subsequence-widths](https://github.com/honu5/LeetCode/tree/master/0927-sum-of-subsequence-widths) |
 | [0944-smallest-range-i](https://github.com/honu5/LeetCode/tree/master/0944-smallest-range-i) |
+| [1025-divisor-game](https://github.com/honu5/LeetCode/tree/master/1025-divisor-game) |
 | [1031-add-to-array-form-of-integer](https://github.com/honu5/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1154-day-of-the-year](https://github.com/honu5/LeetCode/tree/master/1154-day-of-the-year) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/honu5/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -484,6 +485,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/honu5/LeetCode/tree/master/1025-divisor-game) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/honu5/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Dynamic Programming
 |  |
@@ -491,6 +493,7 @@
 | [0070-climbing-stairs](https://github.com/honu5/LeetCode/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/honu5/LeetCode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/honu5/LeetCode/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/honu5/LeetCode/tree/master/1025-divisor-game) |
 ## Memoization
 |  |
 | ------- |
@@ -582,4 +585,8 @@
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/honu5/LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/honu5/LeetCode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
