@@ -35,6 +35,7 @@
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/honu5/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1122-relative-sort-array](https://github.com/honu5/LeetCode/tree/master/1122-relative-sort-array) |
 | [1168-duplicate-zeros](https://github.com/honu5/LeetCode/tree/master/1168-duplicate-zeros) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/honu5/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/honu5/LeetCode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/honu5/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1319-unique-number-of-occurrences](https://github.com/honu5/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -258,6 +259,7 @@
 | [1031-add-to-array-form-of-integer](https://github.com/honu5/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1103-distribute-candies-to-people](https://github.com/honu5/LeetCode/tree/master/1103-distribute-candies-to-people) |
 | [1154-day-of-the-year](https://github.com/honu5/LeetCode/tree/master/1154-day-of-the-year) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/honu5/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/honu5/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1323-maximum-69-number](https://github.com/honu5/LeetCode/tree/master/1323-maximum-69-number) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/honu5/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -586,6 +588,7 @@
 ## Geometry
 |  |
 | ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/honu5/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/honu5/LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Brainteaser
 |  |
