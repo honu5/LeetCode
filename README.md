@@ -249,6 +249,7 @@
 | [0412-fizz-buzz](https://github.com/honu5/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/honu5/LeetCode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/honu5/LeetCode/tree/master/0441-arranging-coins) |
+| [0507-perfect-number](https://github.com/honu5/LeetCode/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/honu5/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0927-sum-of-subsequence-widths](https://github.com/honu5/LeetCode/tree/master/0927-sum-of-subsequence-widths) |
 | [0944-smallest-range-i](https://github.com/honu5/LeetCode/tree/master/0944-smallest-range-i) |
