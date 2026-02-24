@@ -279,6 +279,7 @@
 | [2544-alternating-digit-sum](https://github.com/honu5/LeetCode/tree/master/2544-alternating-digit-sum) |
 | [2650-split-with-minimum-sum](https://github.com/honu5/LeetCode/tree/master/2650-split-with-minimum-sum) |
 | [2812-find-the-maximum-achievable-number](https://github.com/honu5/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
+| [2843-count-symmetric-integers](https://github.com/honu5/LeetCode/tree/master/2843-count-symmetric-integers) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/honu5/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/honu5/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/honu5/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -575,6 +576,7 @@
 | ------- |
 | [1995-count-special-quadruplets](https://github.com/honu5/LeetCode/tree/master/1995-count-special-quadruplets) |
 | [2367-number-of-arithmetic-triplets](https://github.com/honu5/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2843-count-symmetric-integers](https://github.com/honu5/LeetCode/tree/master/2843-count-symmetric-integers) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/honu5/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Recursion
 |  |
