@@ -293,6 +293,7 @@
 | [2843-count-symmetric-integers](https://github.com/honu5/LeetCode/tree/master/2843-count-symmetric-integers) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/honu5/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/honu5/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3516-find-closest-person](https://github.com/honu5/LeetCode/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/honu5/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/honu5/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3560-find-minimum-log-transportation-cost](https://github.com/honu5/LeetCode/tree/master/3560-find-minimum-log-transportation-cost) |
