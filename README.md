@@ -120,6 +120,7 @@
 | [3427-sum-of-variable-length-subarrays](https://github.com/honu5/LeetCode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/honu5/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/honu5/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/honu5/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/honu5/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/honu5/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3634-minimum-removals-to-balance-array](https://github.com/honu5/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
@@ -291,6 +292,7 @@
 | [2843-count-symmetric-integers](https://github.com/honu5/LeetCode/tree/master/2843-count-symmetric-integers) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/honu5/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/honu5/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/honu5/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3560-find-minimum-log-transportation-cost](https://github.com/honu5/LeetCode/tree/master/3560-find-minimum-log-transportation-cost) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/honu5/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/honu5/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
