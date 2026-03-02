@@ -291,6 +291,7 @@
 | [2843-count-symmetric-integers](https://github.com/honu5/LeetCode/tree/master/2843-count-symmetric-integers) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/honu5/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/honu5/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3560-find-minimum-log-transportation-cost](https://github.com/honu5/LeetCode/tree/master/3560-find-minimum-log-transportation-cost) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/honu5/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/honu5/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/honu5/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
