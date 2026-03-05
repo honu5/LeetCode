@@ -22,6 +22,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/honu5/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/honu5/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/honu5/LeetCode/tree/master/0682-baseball-game) |
+| [0697-degree-of-an-array](https://github.com/honu5/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/honu5/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/honu5/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0841-shortest-distance-to-a-character](https://github.com/honu5/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
@@ -141,6 +142,7 @@
 | [0409-longest-palindrome](https://github.com/honu5/LeetCode/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/honu5/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/honu5/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0697-degree-of-an-array](https://github.com/honu5/LeetCode/tree/master/0697-degree-of-an-array) |
 | [1039-find-the-town-judge](https://github.com/honu5/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/honu5/LeetCode/tree/master/1044-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/honu5/LeetCode/tree/master/1122-relative-sort-array) |
