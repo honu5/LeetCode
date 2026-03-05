@@ -146,6 +146,7 @@
 | [0697-degree-of-an-array](https://github.com/honu5/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0771-jewels-and-stones](https://github.com/honu5/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/honu5/LeetCode/tree/master/0819-most-common-word) |
+| [0884-uncommon-words-from-two-sentences](https://github.com/honu5/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1039-find-the-town-judge](https://github.com/honu5/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/honu5/LeetCode/tree/master/1044-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/honu5/LeetCode/tree/master/1122-relative-sort-array) |
@@ -229,6 +230,7 @@
 |  |
 | ------- |
 | [0819-most-common-word](https://github.com/honu5/LeetCode/tree/master/0819-most-common-word) |
+| [0884-uncommon-words-from-two-sentences](https://github.com/honu5/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/honu5/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/honu5/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/honu5/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -386,6 +388,7 @@
 | [0819-most-common-word](https://github.com/honu5/LeetCode/tree/master/0819-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/honu5/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0874-backspace-string-compare](https://github.com/honu5/LeetCode/tree/master/0874-backspace-string-compare) |
+| [0884-uncommon-words-from-two-sentences](https://github.com/honu5/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/honu5/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1044-find-common-characters](https://github.com/honu5/LeetCode/tree/master/1044-find-common-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/honu5/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
