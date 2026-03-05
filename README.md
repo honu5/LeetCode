@@ -143,6 +143,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/honu5/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/honu5/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0697-degree-of-an-array](https://github.com/honu5/LeetCode/tree/master/0697-degree-of-an-array) |
+| [0771-jewels-and-stones](https://github.com/honu5/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1039-find-the-town-judge](https://github.com/honu5/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/honu5/LeetCode/tree/master/1044-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/honu5/LeetCode/tree/master/1122-relative-sort-array) |
@@ -378,6 +379,7 @@
 | [0680-valid-palindrome-ii](https://github.com/honu5/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/honu5/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/honu5/LeetCode/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/honu5/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0841-shortest-distance-to-a-character](https://github.com/honu5/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0874-backspace-string-compare](https://github.com/honu5/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/honu5/LeetCode/tree/master/0953-reverse-only-letters) |
