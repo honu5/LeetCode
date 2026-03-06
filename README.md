@@ -164,6 +164,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/honu5/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2032-two-out-of-three](https://github.com/honu5/LeetCode/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/honu5/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/honu5/LeetCode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/honu5/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/honu5/LeetCode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/honu5/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
@@ -239,6 +240,7 @@
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/honu5/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/honu5/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/honu5/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/honu5/LeetCode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/honu5/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/honu5/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/honu5/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
@@ -414,6 +416,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/honu5/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/honu5/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/honu5/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/honu5/LeetCode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/honu5/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/honu5/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2128-reverse-prefix-of-word](https://github.com/honu5/LeetCode/tree/master/2128-reverse-prefix-of-word) |
