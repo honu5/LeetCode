@@ -186,6 +186,7 @@
 | [2634-minimum-common-value](https://github.com/honu5/LeetCode/tree/master/2634-minimum-common-value) |
 | [2892-check-if-array-is-good](https://github.com/honu5/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/honu5/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/honu5/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/honu5/LeetCode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/honu5/LeetCode/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/honu5/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
@@ -455,6 +456,7 @@
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/honu5/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2887-sort-vowels-in-a-string](https://github.com/honu5/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/honu5/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/honu5/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3136-valid-word](https://github.com/honu5/LeetCode/tree/master/3136-valid-word) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/honu5/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3447-clear-digits](https://github.com/honu5/LeetCode/tree/master/3447-clear-digits) |
