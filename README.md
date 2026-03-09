@@ -291,6 +291,7 @@
 | [1512-number-of-good-pairs](https://github.com/honu5/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/honu5/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1903-largest-odd-number-in-string](https://github.com/honu5/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [1952-three-divisors](https://github.com/honu5/LeetCode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/honu5/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/honu5/LeetCode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/honu5/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
@@ -571,6 +572,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/honu5/LeetCode/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/honu5/LeetCode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/honu5/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/honu5/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/honu5/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
@@ -621,6 +623,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/honu5/LeetCode/tree/master/1952-three-divisors) |
 | [1995-count-special-quadruplets](https://github.com/honu5/LeetCode/tree/master/1995-count-special-quadruplets) |
 | [2367-number-of-arithmetic-triplets](https://github.com/honu5/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2843-count-symmetric-integers](https://github.com/honu5/LeetCode/tree/master/2843-count-symmetric-integers) |
