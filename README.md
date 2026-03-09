@@ -186,6 +186,7 @@
 | [2892-check-if-array-is-good](https://github.com/honu5/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/honu5/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/honu5/LeetCode/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/honu5/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/honu5/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/honu5/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/honu5/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -254,6 +255,7 @@
 | [2331-intersection-of-multiple-arrays](https://github.com/honu5/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/honu5/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2404-most-frequent-even-element](https://github.com/honu5/LeetCode/tree/master/2404-most-frequent-even-element) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/honu5/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/honu5/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/honu5/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/honu5/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
@@ -452,6 +454,7 @@
 | [2887-sort-vowels-in-a-string](https://github.com/honu5/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/honu5/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3136-valid-word](https://github.com/honu5/LeetCode/tree/master/3136-valid-word) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/honu5/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3447-clear-digits](https://github.com/honu5/LeetCode/tree/master/3447-clear-digits) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/honu5/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3794-reverse-string-prefix](https://github.com/honu5/LeetCode/tree/master/3794-reverse-string-prefix) |
