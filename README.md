@@ -289,6 +289,7 @@
 | [1323-maximum-69-number](https://github.com/honu5/LeetCode/tree/master/1323-maximum-69-number) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/honu5/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1512-number-of-good-pairs](https://github.com/honu5/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/honu5/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/honu5/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1903-largest-odd-number-in-string](https://github.com/honu5/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/honu5/LeetCode/tree/master/1952-three-divisors) |
