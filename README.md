@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/honu5/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/honu5/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/honu5/LeetCode/tree/master/0027-remove-element) |
+| [0045-jump-game-ii](https://github.com/honu5/LeetCode/tree/master/0045-jump-game-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/honu5/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/honu5/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/honu5/LeetCode/tree/master/0179-largest-number) |
@@ -517,6 +518,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/honu5/LeetCode/tree/master/0045-jump-game-ii) |
 | [0179-largest-number](https://github.com/honu5/LeetCode/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/honu5/LeetCode/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/honu5/LeetCode/tree/master/0605-can-place-flowers) |
@@ -577,6 +579,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/honu5/LeetCode/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/honu5/LeetCode/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/honu5/LeetCode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/honu5/LeetCode/tree/master/0509-fibonacci-number) |
