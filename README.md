@@ -136,6 +136,7 @@
 | [3634-minimum-removals-to-balance-array](https://github.com/honu5/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3644-minimum-positive-sum-subarray](https://github.com/honu5/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3663-find-the-least-frequent-digit](https://github.com/honu5/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/honu5/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/honu5/LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Hash Table
 |  |
@@ -203,6 +204,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/honu5/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/honu5/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/honu5/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/honu5/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/honu5/LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Sorting
 |  |
