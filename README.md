@@ -25,6 +25,7 @@
 | [0682-baseball-game](https://github.com/honu5/LeetCode/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/honu5/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/honu5/LeetCode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/honu5/LeetCode/tree/master/0706-design-hashmap) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/honu5/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/honu5/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0748-shortest-completing-word](https://github.com/honu5/LeetCode/tree/master/0748-shortest-completing-word) |
@@ -156,6 +157,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/honu5/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0697-degree-of-an-array](https://github.com/honu5/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/honu5/LeetCode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/honu5/LeetCode/tree/master/0706-design-hashmap) |
 | [0748-shortest-completing-word](https://github.com/honu5/LeetCode/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/honu5/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/honu5/LeetCode/tree/master/0804-unique-morse-code-words) |
@@ -649,6 +651,7 @@
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/honu5/LeetCode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/honu5/LeetCode/tree/master/0706-design-hashmap) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/honu5/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Divide and Conquer
 |  |
@@ -699,8 +702,10 @@
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/honu5/LeetCode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/honu5/LeetCode/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/honu5/LeetCode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/honu5/LeetCode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
