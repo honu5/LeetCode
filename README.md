@@ -24,6 +24,7 @@
 | [0674-longest-continuous-increasing-subsequence](https://github.com/honu5/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/honu5/LeetCode/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/honu5/LeetCode/tree/master/0697-degree-of-an-array) |
+| [0705-design-hashset](https://github.com/honu5/LeetCode/tree/master/0705-design-hashset) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/honu5/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/honu5/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0748-shortest-completing-word](https://github.com/honu5/LeetCode/tree/master/0748-shortest-completing-word) |
@@ -153,6 +154,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/honu5/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/honu5/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0697-degree-of-an-array](https://github.com/honu5/LeetCode/tree/master/0697-degree-of-an-array) |
+| [0705-design-hashset](https://github.com/honu5/LeetCode/tree/master/0705-design-hashset) |
 | [0748-shortest-completing-word](https://github.com/honu5/LeetCode/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/honu5/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/honu5/LeetCode/tree/master/0819-most-common-word) |
@@ -643,6 +645,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/honu5/LeetCode/tree/master/0705-design-hashset) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/honu5/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Divide and Conquer
 |  |
@@ -689,4 +692,12 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/honu5/LeetCode/tree/master/1025-divisor-game) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/honu5/LeetCode/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/honu5/LeetCode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
