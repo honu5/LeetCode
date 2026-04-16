@@ -162,6 +162,7 @@
 | [0771-jewels-and-stones](https://github.com/honu5/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/honu5/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/honu5/LeetCode/tree/master/0819-most-common-word) |
+| [0859-buddy-strings](https://github.com/honu5/LeetCode/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/honu5/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1039-find-the-town-judge](https://github.com/honu5/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/honu5/LeetCode/tree/master/1044-find-common-characters) |
@@ -432,6 +433,7 @@
 | [0804-unique-morse-code-words](https://github.com/honu5/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/honu5/LeetCode/tree/master/0819-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/honu5/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
+| [0859-buddy-strings](https://github.com/honu5/LeetCode/tree/master/0859-buddy-strings) |
 | [0874-backspace-string-compare](https://github.com/honu5/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/honu5/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/honu5/LeetCode/tree/master/0953-reverse-only-letters) |
