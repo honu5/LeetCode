@@ -26,6 +26,7 @@
 | [0697-degree-of-an-array](https://github.com/honu5/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/honu5/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/honu5/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0748-shortest-completing-word](https://github.com/honu5/LeetCode/tree/master/0748-shortest-completing-word) |
 | [0819-most-common-word](https://github.com/honu5/LeetCode/tree/master/0819-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/honu5/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0896-monotonic-array](https://github.com/honu5/LeetCode/tree/master/0896-monotonic-array) |
@@ -152,6 +153,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/honu5/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/honu5/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0697-degree-of-an-array](https://github.com/honu5/LeetCode/tree/master/0697-degree-of-an-array) |
+| [0748-shortest-completing-word](https://github.com/honu5/LeetCode/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/honu5/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/honu5/LeetCode/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/honu5/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -419,6 +421,7 @@
 | [0680-valid-palindrome-ii](https://github.com/honu5/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/honu5/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/honu5/LeetCode/tree/master/0709-to-lower-case) |
+| [0748-shortest-completing-word](https://github.com/honu5/LeetCode/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/honu5/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/honu5/LeetCode/tree/master/0819-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/honu5/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
