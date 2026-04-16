@@ -1,7 +1,7 @@
 class MyHashSet:
 
     def __init__(self):
-        self.ls=[False]*1000001
+        self.ls=[False]*pow(10,7)
 
     def add(self, key: int) -> None:
         self.ls[key]=True
