@@ -479,6 +479,7 @@
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/honu5/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/honu5/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/honu5/LeetCode/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/honu5/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/honu5/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/honu5/LeetCode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/honu5/LeetCode/tree/master/2502-sort-the-people) |
@@ -552,6 +553,7 @@
 | [2027-minimum-moves-to-convert-string](https://github.com/honu5/LeetCode/tree/master/2027-minimum-moves-to-convert-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/honu5/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/honu5/LeetCode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/honu5/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/honu5/LeetCode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/honu5/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/honu5/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -686,6 +688,7 @@
 | ------- |
 | [1952-three-divisors](https://github.com/honu5/LeetCode/tree/master/1952-three-divisors) |
 | [1995-count-special-quadruplets](https://github.com/honu5/LeetCode/tree/master/1995-count-special-quadruplets) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/honu5/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2367-number-of-arithmetic-triplets](https://github.com/honu5/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2843-count-symmetric-integers](https://github.com/honu5/LeetCode/tree/master/2843-count-symmetric-integers) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/honu5/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
