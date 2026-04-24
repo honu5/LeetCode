@@ -280,6 +280,7 @@
 | [2331-intersection-of-multiple-arrays](https://github.com/honu5/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/honu5/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2404-most-frequent-even-element](https://github.com/honu5/LeetCode/tree/master/2404-most-frequent-even-element) |
+| [2833-furthest-point-from-origin](https://github.com/honu5/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/honu5/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3046-split-the-array](https://github.com/honu5/LeetCode/tree/master/3046-split-the-array) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/honu5/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
@@ -485,6 +486,7 @@
 | [2502-sort-the-people](https://github.com/honu5/LeetCode/tree/master/2502-sort-the-people) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/honu5/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/honu5/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2833-furthest-point-from-origin](https://github.com/honu5/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [2887-sort-vowels-in-a-string](https://github.com/honu5/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/honu5/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/honu5/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
