@@ -193,6 +193,7 @@
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/honu5/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/honu5/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/honu5/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/honu5/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2331-intersection-of-multiple-arrays](https://github.com/honu5/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/honu5/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/honu5/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
@@ -281,6 +282,7 @@
 | [2085-count-common-words-with-one-occurrence](https://github.com/honu5/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/honu5/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/honu5/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/honu5/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2331-intersection-of-multiple-arrays](https://github.com/honu5/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/honu5/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2404-most-frequent-even-element](https://github.com/honu5/LeetCode/tree/master/2404-most-frequent-even-element) |
@@ -486,6 +488,7 @@
 | [2255-count-prefixes-of-a-given-string](https://github.com/honu5/LeetCode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/honu5/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/honu5/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/honu5/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/honu5/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/honu5/LeetCode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/honu5/LeetCode/tree/master/2502-sort-the-people) |
