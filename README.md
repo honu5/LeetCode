@@ -119,6 +119,7 @@
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/honu5/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2756-buy-two-chocolates](https://github.com/honu5/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/honu5/LeetCode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
+| [2815-max-pair-sum-in-an-array](https://github.com/honu5/LeetCode/tree/master/2815-max-pair-sum-in-an-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/honu5/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2892-check-if-array-is-good](https://github.com/honu5/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/honu5/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -201,6 +202,7 @@
 | [2566-number-of-unequal-triplets-in-array](https://github.com/honu5/LeetCode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/honu5/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2634-minimum-common-value](https://github.com/honu5/LeetCode/tree/master/2634-minimum-common-value) |
+| [2815-max-pair-sum-in-an-array](https://github.com/honu5/LeetCode/tree/master/2815-max-pair-sum-in-an-array) |
 | [2892-check-if-array-is-good](https://github.com/honu5/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/honu5/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/honu5/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
