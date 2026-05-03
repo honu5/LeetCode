@@ -508,6 +508,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/honu5/LeetCode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/honu5/LeetCode/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/honu5/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0682-baseball-game](https://github.com/honu5/LeetCode/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/honu5/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/honu5/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -730,4 +731,16 @@
 | ------- |
 | [0705-design-hashset](https://github.com/honu5/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/honu5/LeetCode/tree/master/0706-design-hashmap) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/honu5/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/honu5/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/honu5/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
