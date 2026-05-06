@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/honu5/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/honu5/LeetCode/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/honu5/LeetCode/tree/master/0045-jump-game-ii) |
+| [0066-plus-one](https://github.com/honu5/LeetCode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/honu5/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/honu5/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/honu5/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -301,6 +302,7 @@
 | [0009-palindrome-number](https://github.com/honu5/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/honu5/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/honu5/LeetCode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/honu5/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/honu5/LeetCode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/honu5/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/honu5/LeetCode/tree/master/0189-rotate-array) |
