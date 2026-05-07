@@ -144,6 +144,7 @@
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/honu5/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3634-minimum-removals-to-balance-array](https://github.com/honu5/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3644-minimum-positive-sum-subarray](https://github.com/honu5/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
+| [3660-jump-game-ix](https://github.com/honu5/LeetCode/tree/master/3660-jump-game-ix) |
 | [3663-find-the-least-frequent-digit](https://github.com/honu5/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/honu5/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/honu5/LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
@@ -622,6 +623,7 @@
 | [0392-is-subsequence](https://github.com/honu5/LeetCode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/honu5/LeetCode/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/honu5/LeetCode/tree/master/1025-divisor-game) |
+| [3660-jump-game-ix](https://github.com/honu5/LeetCode/tree/master/3660-jump-game-ix) |
 ## Memoization
 |  |
 | ------- |
