@@ -312,6 +312,7 @@
 | [0258-add-digits](https://github.com/honu5/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/honu5/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/honu5/LeetCode/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/honu5/LeetCode/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/honu5/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/honu5/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/honu5/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -620,6 +621,7 @@
 | [0045-jump-game-ii](https://github.com/honu5/LeetCode/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/honu5/LeetCode/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/honu5/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0279-perfect-squares](https://github.com/honu5/LeetCode/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/honu5/LeetCode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/honu5/LeetCode/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/honu5/LeetCode/tree/master/1025-divisor-game) |
@@ -756,4 +758,5 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/honu5/LeetCode/tree/master/0100-same-tree) |
+| [0279-perfect-squares](https://github.com/honu5/LeetCode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
