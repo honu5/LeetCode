@@ -341,6 +341,7 @@
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/honu5/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/honu5/LeetCode/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1323-maximum-69-number](https://github.com/honu5/LeetCode/tree/master/1323-maximum-69-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/honu5/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/honu5/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1512-number-of-good-pairs](https://github.com/honu5/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/honu5/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -657,6 +658,7 @@
 | [0268-missing-number](https://github.com/honu5/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/honu5/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/honu5/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/honu5/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/honu5/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1873-longest-nice-substring](https://github.com/honu5/LeetCode/tree/master/1873-longest-nice-substring) |
 | [2032-two-out-of-three](https://github.com/honu5/LeetCode/tree/master/2032-two-out-of-three) |
