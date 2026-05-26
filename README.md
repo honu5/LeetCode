@@ -339,6 +339,7 @@
 | [1232-check-if-it-is-a-straight-line](https://github.com/honu5/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/honu5/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/honu5/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/honu5/LeetCode/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1323-maximum-69-number](https://github.com/honu5/LeetCode/tree/master/1323-maximum-69-number) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/honu5/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1512-number-of-good-pairs](https://github.com/honu5/LeetCode/tree/master/1512-number-of-good-pairs) |
