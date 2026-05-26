@@ -334,6 +334,7 @@
 | [1025-divisor-game](https://github.com/honu5/LeetCode/tree/master/1025-divisor-game) |
 | [1031-add-to-array-form-of-integer](https://github.com/honu5/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1103-distribute-candies-to-people](https://github.com/honu5/LeetCode/tree/master/1103-distribute-candies-to-people) |
+| [1137-n-th-tribonacci-number](https://github.com/honu5/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1154-day-of-the-year](https://github.com/honu5/LeetCode/tree/master/1154-day-of-the-year) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/honu5/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/honu5/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -633,12 +634,14 @@
 | [0392-is-subsequence](https://github.com/honu5/LeetCode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/honu5/LeetCode/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/honu5/LeetCode/tree/master/1025-divisor-game) |
+| [1137-n-th-tribonacci-number](https://github.com/honu5/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [3660-jump-game-ix](https://github.com/honu5/LeetCode/tree/master/3660-jump-game-ix) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/honu5/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/honu5/LeetCode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/honu5/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Matrix
 |  |
 | ------- |
