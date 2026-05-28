@@ -148,6 +148,7 @@
 | [3660-jump-game-ix](https://github.com/honu5/LeetCode/tree/master/3660-jump-game-ix) |
 | [3663-find-the-least-frequent-digit](https://github.com/honu5/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/honu5/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/honu5/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/honu5/LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Hash Table
 |  |
@@ -381,6 +382,7 @@
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/honu5/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3663-find-the-least-frequent-digit](https://github.com/honu5/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/honu5/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3875-construct-uniform-parity-array-i](https://github.com/honu5/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3908-valid-digit-number](https://github.com/honu5/LeetCode/tree/master/3908-valid-digit-number) |
 ## Two Pointers
 |  |
