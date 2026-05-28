@@ -363,6 +363,7 @@
 | [2525-categorize-box-according-to-criteria](https://github.com/honu5/LeetCode/tree/master/2525-categorize-box-according-to-criteria) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/honu5/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/honu5/LeetCode/tree/master/2544-alternating-digit-sum) |
+| [2582-pass-the-pillow](https://github.com/honu5/LeetCode/tree/master/2582-pass-the-pillow) |
 | [2650-split-with-minimum-sum](https://github.com/honu5/LeetCode/tree/master/2650-split-with-minimum-sum) |
 | [2652-sum-multiples](https://github.com/honu5/LeetCode/tree/master/2652-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/honu5/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
@@ -557,6 +558,7 @@
 | [2460-apply-operations-to-an-array](https://github.com/honu5/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/honu5/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/honu5/LeetCode/tree/master/2562-find-the-array-concatenation-value) |
+| [2582-pass-the-pillow](https://github.com/honu5/LeetCode/tree/master/2582-pass-the-pillow) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/honu5/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/honu5/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3226-minimum-number-game](https://github.com/honu5/LeetCode/tree/master/3226-minimum-number-game) |
