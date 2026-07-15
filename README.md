@@ -327,6 +327,7 @@
 | [0371-sum-of-two-integers](https://github.com/honu5/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0390-elimination-game](https://github.com/honu5/LeetCode/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/honu5/LeetCode/tree/master/0396-rotate-function) |
+| [0400-nth-digit](https://github.com/honu5/LeetCode/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/honu5/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/honu5/LeetCode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/honu5/LeetCode/tree/master/0441-arranging-coins) |
@@ -614,6 +615,7 @@
 | [0268-missing-number](https://github.com/honu5/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/honu5/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/honu5/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0400-nth-digit](https://github.com/honu5/LeetCode/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/honu5/LeetCode/tree/master/0441-arranging-coins) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/honu5/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/honu5/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
