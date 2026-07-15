@@ -11,4 +11,3 @@ class Solution:
         number=start+(n-1)//digit
         return int(str(number)[(n-1)%digit])
         
-        
