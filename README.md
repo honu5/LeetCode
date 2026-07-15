@@ -21,6 +21,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/honu5/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/honu5/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/honu5/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0396-rotate-function](https://github.com/honu5/LeetCode/tree/master/0396-rotate-function) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/honu5/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/honu5/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/honu5/LeetCode/tree/master/0605-can-place-flowers) |
@@ -325,6 +326,7 @@
 | [0367-valid-perfect-square](https://github.com/honu5/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/honu5/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0390-elimination-game](https://github.com/honu5/LeetCode/tree/master/0390-elimination-game) |
+| [0396-rotate-function](https://github.com/honu5/LeetCode/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/honu5/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/honu5/LeetCode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/honu5/LeetCode/tree/master/0441-arranging-coins) |
@@ -650,6 +652,7 @@
 | [0343-integer-break](https://github.com/honu5/LeetCode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/honu5/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/honu5/LeetCode/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/honu5/LeetCode/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/honu5/LeetCode/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/honu5/LeetCode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/honu5/LeetCode/tree/master/1137-n-th-tribonacci-number) |
