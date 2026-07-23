@@ -10,10 +10,8 @@ class Solution:
             else:
                 ans.append(prev)
                 prev=inr[i]
-        
         ans.append(prev)
         return ans
-
 
 
         
