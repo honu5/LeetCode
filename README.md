@@ -18,6 +18,7 @@
 | [0120-triangle](https://github.com/honu5/LeetCode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/honu5/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/honu5/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/honu5/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/honu5/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/honu5/LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/honu5/LeetCode/tree/master/0189-rotate-array) |
@@ -618,6 +619,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/honu5/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/honu5/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/honu5/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/honu5/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/honu5/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/honu5/LeetCode/tree/master/0268-missing-number) |
