@@ -1,9 +1,8 @@
-class Solution(object):
-    def minimumTotal(self, triangle):
-        dp=triangle[-1]
-        for i in range(len(triangle)-2,-1,-1):
-            for j in range(len(triangle[i])):
-                dp[j]=triangle[i][j] + min(dp[j+1],dp[j])
-        return dp[0]
-
+class Solution:
+    def minimumTotal(self, tri: List[List[int]]) -> int:
+        for i in range(len(tri)-2,-1,-1):
+            for j in range(len(tri[i])):
+                tri[i][j]+=min(tri[i+1][j],tri[i+1][j+1])
+        return tri[0][0]
+        
         
