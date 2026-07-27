@@ -17,6 +17,7 @@
 | [0090-subsets-ii](https://github.com/honu5/LeetCode/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/honu5/LeetCode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/honu5/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/honu5/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/honu5/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/honu5/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/honu5/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -661,6 +662,7 @@
 | [0070-climbing-stairs](https://github.com/honu5/LeetCode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/honu5/LeetCode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/honu5/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/honu5/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0279-perfect-squares](https://github.com/honu5/LeetCode/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/honu5/LeetCode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/honu5/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
